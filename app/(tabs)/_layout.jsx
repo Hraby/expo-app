@@ -1,51 +1,42 @@
 import React from 'react';
-import { Link, Tabs } from 'expo-router';
+import { Link, Tabs, View } from 'expo-router';
 import { Pressable } from 'react-native';
 
-import Colors from '@/constants/Colors';
-import { useColorScheme } from '@/components/useColorScheme';
-import { useClientOnlyValue } from '@/components/useClientOnlyValue';
 import { Feather } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
 import { FontAwesome } from '@expo/vector-icons';
 
-// You can explore the built-in icon families and icons on the web at https://icons.expo.fyi/
-function TabBarIcon(props: {
-  name: React.ComponentProps<typeof FontAwesome>['name'];
-  color: string;
-}) {
-  return <FontAwesome size={28} style={{ marginBottom: -3 }} {...props} />;
-}
-
 export default function TabLayout() {
-  const colorScheme = useColorScheme();
 
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
+        tabBarActiveTintColor: "white",
         // Disable the static render of the header on web
         // to prevent a hydration error in React Navigation v6.
-        headerShown: useClientOnlyValue(false, true),
+        headerShown: false,
         tabBarStyle: {
           position: "absolute",
           bottom: 25,
+          paddingBottom: 0,
           left: 20,
           right: 20,
           elevation: 0,
           borderRadius: 15,
-          height: 50,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
           backgroundColor: "#0053A1"
         }
       }}>
       <Tabs.Screen
-        name="index"
+        name="home"
         options={{
           title: 'Můj fotbal',
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <FontAwesome name="soccer-ball-o" size={24} color={color} />,
           headerRight: () => (
-            <div style={{display: "flex"}}>
+            <View style={{display: "flex"}}>
               <Link href="/s?" asChild>
                 <Pressable>
                   {({ pressed }) => (
@@ -60,7 +51,7 @@ export default function TabLayout() {
                   )}
                 </Pressable>
               </Link>
-            </div>
+            </View>
           ),
         }}
       />
@@ -71,7 +62,7 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="clockcircleo" size={24} color={color} />,
           headerRight: () => (
-            <div style={{display: "flex"}}>
+            <View style={{display: "flex"}}>
               <Link href="/s?" asChild>
                 <Pressable>
                   {({ pressed }) => (
@@ -86,7 +77,7 @@ export default function TabLayout() {
                   )}
                 </Pressable>
               </Link>
-            </div>
+            </View>
           ),
         }}
       />
@@ -97,7 +88,7 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="hearto" size={24} color={color} />,
           headerRight: () => (
-            <div style={{display: "flex"}}>
+            <View style={{display: "flex"}}>
               <Link href="/s?" asChild>
                 <Pressable>
                   {({ pressed }) => (
@@ -112,7 +103,7 @@ export default function TabLayout() {
                   )}
                 </Pressable>
               </Link>
-            </div>
+            </View>
           ),
         }}
       />
@@ -123,7 +114,7 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="Trophy" size={24} color={color} />,
           headerRight: () => (
-            <div style={{display: "flex"}}>
+            <View style={{display: "flex"}}>
               <Link href="/s?" asChild>
                 <Pressable>
                   {({ pressed }) => (
@@ -138,7 +129,7 @@ export default function TabLayout() {
                   )}
                 </Pressable>
               </Link>
-            </div>
+            </View>
           ),
         }}
       />

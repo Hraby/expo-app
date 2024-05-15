@@ -1,15 +1,10 @@
-import { StatusBar } from 'expo-status-bar';
-
-import EditScreenInfo from '@/components/EditScreenInfo';
 import {Text, StyleSheet, View, Platform} from 'react-native';
 
-export default function SettingsScreen() {
+export default function Matches() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Settings</Text>
+      <Text style={styles.title}>Tab Two</Text>
       <View style={styles.separator}/>
-      <EditScreenInfo path="app/settings.tsx" />
-      <StatusBar style={Platform.OS === 'ios' ? 'light' : 'auto'} />
     </View>
   );
 }
