@@ -1,19 +1,17 @@
 import {StyleSheet, View, SafeAreaView} from 'react-native';
 import {FeatureMatchScreen} from '@/components/FeatureMatch';
+import FavoriteMatches from '../../components/FavoriteMatches';
 
 export default function Home() {
   return (
     <SafeAreaView style={styles.container}>
       <FeatureMatchScreen />
-      <View style={styles.separator} />
+      <FavoriteMatches />
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    padding: 15
-  },
   title: {
     fontSize: 20,
     fontWeight: 'bold',
