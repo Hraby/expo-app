@@ -1,20 +1,27 @@
 import React from 'react';
-import { Link, Tabs, View } from 'expo-router';
-import { Pressable } from 'react-native';
-
+import { Link, Tabs } from 'expo-router';
+import { Pressable, View } from 'react-native';
 import { Feather } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
 import { FontAwesome } from '@expo/vector-icons';
+import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 
 export default function TabLayout() {
-
+  const insets = useSafeAreaInsets();
   return (
+    <SafeAreaProvider>
     <Tabs
       screenOptions={{
         tabBarActiveTintColor: "white",
         // Disable the static render of the header on web
         // to prevent a hydration error in React Navigation v6.
-        headerShown: false,
+        headerShown: true,
+        headerTitleContainerStyle: {
+          paddingTop: 25,
+        },
+        headerRightContainerStyle: {
+          paddingTop: 25,
+        },
         tabBarStyle: {
           position: "absolute",
           bottom: 25,
@@ -30,14 +37,14 @@ export default function TabLayout() {
         }
       }}>
       <Tabs.Screen
-        name="home"
+        name="index"
         options={{
           title: 'Můj fotbal',
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <FontAwesome name="soccer-ball-o" size={24} color={color} />,
           headerRight: () => (
-            <View style={{display: "flex"}}>
-              <Link href="/s?" asChild>
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <Link href="/search" asChild>
                 <Pressable>
                   {({ pressed }) => (
                     <AntDesign name="search1" size={24} color="black" style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}/>
@@ -62,8 +69,8 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="clockcircleo" size={24} color={color} />,
           headerRight: () => (
-            <View style={{display: "flex"}}>
-              <Link href="/s?" asChild>
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <Link href="/search" asChild>
                 <Pressable>
                   {({ pressed }) => (
                     <AntDesign name="search1" size={24} color="black" style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}/>
@@ -88,8 +95,8 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="hearto" size={24} color={color} />,
           headerRight: () => (
-            <View style={{display: "flex"}}>
-              <Link href="/s?" asChild>
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <Link href="/search" asChild>
                 <Pressable>
                   {({ pressed }) => (
                     <AntDesign name="search1" size={24} color="black" style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}/>
@@ -114,15 +121,15 @@ export default function TabLayout() {
           tabBarShowLabel: false,
           tabBarIcon: ({ color }) => <AntDesign name="Trophy" size={24} color={color} />,
           headerRight: () => (
-            <View style={{display: "flex"}}>
-              <Link href="/s?" asChild>
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <Link href="../search" asChild>
                 <Pressable>
                   {({ pressed }) => (
                     <AntDesign name="search1" size={24} color="black" style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}/>
                   )}
                 </Pressable>
               </Link>
-              <Link href="/settings" asChild>
+              <Link href="../settings" asChild>
                 <Pressable>
                   {({ pressed }) => (
                     <Feather name="settings" size={24} color="black" style={{ marginRight: 15, opacity: pressed ? 0.5 : 1 }}/>
@@ -133,6 +140,17 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="details/[id]"
+        options={{
+          title: 'Detail zápasu',
+          tabBarShowLabel: false,
+          tabBarIcon: ({ color }) => <FontAwesome name="soccer-ball-o" size={24} color={color} />,
+          lazy: true,
+          tabBarButton: () => null,
+        }}
+      />
     </Tabs>
+    </SafeAreaProvider>
   );
 }

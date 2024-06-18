@@ -1,0 +1,5122 @@
+[
+    {
+    "name": "Albánie",
+    "code": "ALB",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Etrit Berisha",
+        "position": "GK",
+        "caps": "81/0",
+        "birth_year": 1989,
+        "club": "Empoli FC (ITA)"
+      },
+      {
+        "num": 12,
+        "name": "Elhan Kastrati",
+        "position": "GK",
+        "caps": "2/0",
+        "birth_year": 1997,
+        "club": "AS Cittadella (ITA)"
+      },
+      {
+        "num": 23,
+        "name": "Thomas Strakosha",
+        "position": "GK",
+        "caps": "28/0",
+        "birth_year": 1995,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 2,
+        "name": "Iván Balliu",
+        "position": "DF",
+        "caps": "13/0",
+        "birth_year": 1992,
+        "club": "Rayo Vallecano (ESP)"
+      },
+      {
+        "num": 3,
+        "name": "Mario Mitaj",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 2003,
+        "club": "FC Lokomotiv Moscow (RUS)"
+      },
+      {
+        "num": 4,
+        "name": "Elseid Hysaj",
+        "position": "DF",
+        "caps": "84/2",
+        "birth_year": 1994,
+        "club": "SS Lazio (ITA)"
+      },
+      {
+        "num": 5,
+        "name": "Arlind Ajeti",
+        "position": "DF",
+        "caps": "26/1",
+        "birth_year": 1993,
+        "club": "CFR Cluj (ROU)"
+      },
+      {
+        "num": 6,
+        "name": "Berat Djimsiti",
+        "position": "DF",
+        "caps": "58/1",
+        "birth_year": 1993,
+        "club": "Atalanta BC (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Enea Mihaj",
+        "position": "DF",
+        "caps": "19/0",
+        "birth_year": 1998,
+        "club": "F.C. Famalicão (POR)"
+      },
+      {
+        "num": 18,
+        "name": "Ardian Ismajli",
+        "position": "DF",
+        "caps": "38/2",
+        "birth_year": 1996,
+        "club": "Empoli FC (ITA)"
+      },
+      {
+        "num": 24,
+        "name": "Marash Kumbulla",
+        "position": "DF",
+        "caps": "19/0",
+        "birth_year": 2000,
+        "club": "US Sassuolo Calcio (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Naser Aliji",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 1993,
+        "club": "FC Voluntari (ROU)"
+      },
+      {
+        "num": 8,
+        "name": "Klaus Gjasula",
+        "position": "MF",
+        "caps": "28/0",
+        "birth_year": 1989,
+        "club": "SV Darmstadt 98 (GER)"
+      },
+      {
+        "num": 10,
+        "name": "Nedim Bajrami",
+        "position": "MF",
+        "caps": "23/4",
+        "birth_year": 1999,
+        "club": "US Sassuolo Calcio (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Qazim Laçi",
+        "position": "MF",
+        "caps": "27/3",
+        "birth_year": 1996,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 15,
+        "name": "Taulant Seferi",
+        "position": "MF",
+        "caps": "19/3",
+        "birth_year": 1996,
+        "club": "Baniyas Club (UAE)"
+      },
+      {
+        "num": 20,
+        "name": "Ylber Ramadani",
+        "position": "MF",
+        "caps": "35/1",
+        "birth_year": 1996,
+        "club": "US Lecce (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Kristjan Asllani",
+        "position": "MF",
+        "caps": "20/2",
+        "birth_year": 2002,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 22,
+        "name": "Amir Abrashi",
+        "position": "MF",
+        "caps": "50/1",
+        "birth_year": 1990,
+        "club": "Grasshopper Club Zürich (SUI)"
+      },
+      {
+        "num": 7,
+        "name": "Rey Manaj",
+        "position": "FW",
+        "caps": "34/8",
+        "birth_year": 1997,
+        "club": "Sivasspor (TUR)"
+      },
+      {
+        "num": 9,
+        "name": "Jasir Asani",
+        "position": "FW",
+        "caps": "13/4",
+        "birth_year": 1995,
+        "club": "Gwangju FC (KOR)"
+      },
+      {
+        "num": 11,
+        "name": "Armando Broja",
+        "position": "FW",
+        "caps": "21/5",
+        "birth_year": 2001,
+        "club": "Fulham F.C. (ENG)"
+      },
+      {
+        "num": 16,
+        "name": "Medon Berisha",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 2003,
+        "club": "US Lecce (ITA)"
+      },
+      {
+        "num": 17,
+        "name": "Ernest Muçi",
+        "position": "FW",
+        "caps": "10/3",
+        "birth_year": 2001,
+        "club": "Beşiktaş J.K. (TUR)"
+      },
+      {
+        "num": 19,
+        "name": "Mirlind Daku",
+        "position": "FW",
+        "caps": "5/1",
+        "birth_year": 1998,
+        "club": "FC Rubin Kazan (RUS)"
+      },
+      {
+        "num": 26,
+        "name": "Arbër Hoxha",
+        "position": "FW",
+        "caps": "4/0",
+        "birth_year": 1998,
+        "club": "GNK Dinamo Zagreb (CRO)"
+      }
+    ]
+    },
+    {
+    "name": "Rakousko",
+    "code": "AUT",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Heinz Lindner",
+        "position": "GK",
+        "caps": "37/0",
+        "birth_year": 1990,
+        "club": "Royale Union Saint-Gilloise (BEL)"
+      },
+      {
+        "num": 12,
+        "name": "Niklas Hedl",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 2001,
+        "club": "SK Rapid Wien (AUT)"
+      },
+      {
+        "num": 13,
+        "name": "Patrick Pentz",
+        "position": "GK",
+        "caps": "6/0",
+        "birth_year": 1997,
+        "club": "Brøndby IF (DEN)"
+      },
+      {
+        "num": 2,
+        "name": "Maximilian Wöber",
+        "position": "DF",
+        "caps": "25/0",
+        "birth_year": 1998,
+        "club": "Borussia Mönchengladbach (GER)"
+      },
+      {
+        "num": 3,
+        "name": "Gernot Trauner",
+        "position": "DF",
+        "caps": "11/1",
+        "birth_year": 1992,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 4,
+        "name": "Kevin Danso",
+        "position": "DF",
+        "caps": "20/0",
+        "birth_year": 1998,
+        "club": "RC Lens (FRA)"
+      },
+      {
+        "num": 5,
+        "name": "Stefan Posch",
+        "position": "DF",
+        "caps": "32/1",
+        "birth_year": 1997,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Leopold Querfeld",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2003,
+        "club": "SK Rapid Wien (AUT)"
+      },
+      {
+        "num": 15,
+        "name": "Philipp Lienhart",
+        "position": "DF",
+        "caps": "21/1",
+        "birth_year": 1996,
+        "club": "SC Freiburg (GER)"
+      },
+      {
+        "num": 16,
+        "name": "Phillipp Mwene",
+        "position": "DF",
+        "caps": "12/0",
+        "birth_year": 1994,
+        "club": "1. FSV Mainz 05 (GER)"
+      },
+      {
+        "num": 21,
+        "name": "Flavius Daniliuc",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 2001,
+        "club": "FC Red Bull Salzburg (AUT)"
+      },
+      {
+        "num": 6,
+        "name": "Nicolas Seiwald",
+        "position": "MF",
+        "caps": "24/0",
+        "birth_year": 2001,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 8,
+        "name": "Alexander Prass",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 2001,
+        "club": "SK Sturm Graz (AUT)"
+      },
+      {
+        "num": 9,
+        "name": "Marcel Sabitzer",
+        "position": "MF",
+        "caps": "78/17",
+        "birth_year": 1994,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 10,
+        "name": "Florian Grillitsch",
+        "position": "MF",
+        "caps": "43/1",
+        "birth_year": 1995,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 17,
+        "name": "Florian Kainz",
+        "position": "MF",
+        "caps": "28/1",
+        "birth_year": 1992,
+        "club": "1. FC Köln (GER)"
+      },
+      {
+        "num": 18,
+        "name": "Romano Schmid",
+        "position": "MF",
+        "caps": "11/0",
+        "birth_year": 2000,
+        "club": "SV Werder Bremen (GER)"
+      },
+      {
+        "num": 19,
+        "name": "Christoph Baumgartner",
+        "position": "MF",
+        "caps": "38/15",
+        "birth_year": 1999,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 20,
+        "name": "Konrad Laimer",
+        "position": "MF",
+        "caps": "36/4",
+        "birth_year": 1997,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 22,
+        "name": "Matthias Seidl",
+        "position": "MF",
+        "caps": "4/0",
+        "birth_year": 2001,
+        "club": "SK Rapid Wien (AUT)"
+      },
+      {
+        "num": 7,
+        "name": "Marko Arnautović",
+        "position": "FW",
+        "caps": "112/36",
+        "birth_year": 1989,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 11,
+        "name": "Michael Gregoritsch",
+        "position": "FW",
+        "caps": "55/15",
+        "birth_year": 1994,
+        "club": "SC Freiburg (GER)"
+      },
+      {
+        "num": 23,
+        "name": "Patrick Wimmer",
+        "position": "FW",
+        "caps": "12/1",
+        "birth_year": 2001,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 24,
+        "name": "Andreas Weimann",
+        "position": "FW",
+        "caps": "24/2",
+        "birth_year": 1991,
+        "club": "West Bromwich Albion F.C. (ENG)"
+      },
+      {
+        "num": 25,
+        "name": "Maximilian Entrup",
+        "position": "FW",
+        "caps": "3/1",
+        "birth_year": 1997,
+        "club": "TSV Hartberg (AUT)"
+      },
+      {
+        "num": 26,
+        "name": "Marco Grüll",
+        "position": "FW",
+        "caps": "5/0",
+        "birth_year": 1998,
+        "club": "SK Rapid Wien (AUT)"
+      }
+    ]
+  },
+  {
+    "name": "Belgie",
+    "code": "BEL",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Koen Casteels",
+        "position": "GK",
+        "caps": "10/0",
+        "birth_year": 1992,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 12,
+        "name": "Thomas Kaminski",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1992,
+        "club": "Luton Town F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Matz Sels",
+        "position": "GK",
+        "caps": "8/0",
+        "birth_year": 1992,
+        "club": "Nottingham Forest F.C. (ENG)"
+      },
+      {
+        "num": 2,
+        "name": "Zeno Debast",
+        "position": "DF",
+        "caps": "8/0",
+        "birth_year": 2003,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 3,
+        "name": "Arthur Theate",
+        "position": "DF",
+        "caps": "15/0",
+        "birth_year": 2000,
+        "club": "Stade Rennais F.C. (FRA)"
+      },
+      {
+        "num": 4,
+        "name": "Wout Faes",
+        "position": "DF",
+        "caps": "15/0",
+        "birth_year": 1998,
+        "club": "Leicester City F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "Jan Vertonghen",
+        "position": "DF",
+        "caps": "154/10",
+        "birth_year": 1987,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 15,
+        "name": "Thomas Meunier",
+        "position": "DF",
+        "caps": "66/8",
+        "birth_year": 1991,
+        "club": "Trabzonspor (TUR)"
+      },
+      {
+        "num": 21,
+        "name": "Timothy Castagne",
+        "position": "DF",
+        "caps": "43/2",
+        "birth_year": 1995,
+        "club": "Fulham F.C. (ENG)"
+      },
+      {
+        "num": 25,
+        "name": "Maxim De Cuyper",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2000,
+        "club": "Club Brugge KV (BEL)"
+      },
+      {
+        "num": 6,
+        "name": "Axel Witsel",
+        "position": "MF",
+        "caps": "132/12",
+        "birth_year": 1989,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 7,
+        "name": "Kevin De Bruyne",
+        "position": "MF",
+        "caps": "101/27",
+        "birth_year": 1991,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Youri Tielemans",
+        "position": "MF",
+        "caps": "67/7",
+        "birth_year": 1997,
+        "club": "Aston Villa F.C. (ENG)"
+      },
+      {
+        "num": 11,
+        "name": "Yannick Carrasco",
+        "position": "MF",
+        "caps": "74/11",
+        "birth_year": 1993,
+        "club": "Al Shabab FC (SAU)"
+      },
+      {
+        "num": 16,
+        "name": "Aster Vranckx",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 2002,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 18,
+        "name": "Orel Mangala",
+        "position": "MF",
+        "caps": "15/0",
+        "birth_year": 1998,
+        "club": "Olympique Lyonnais (FRA)"
+      },
+      {
+        "num": 23,
+        "name": "Arthur Vermeeren",
+        "position": "MF",
+        "caps": "4/0",
+        "birth_year": 2005,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 24,
+        "name": "Amadou Onana",
+        "position": "MF",
+        "caps": "13/0",
+        "birth_year": 2001,
+        "club": "Everton F.C. (ENG)"
+      },
+      {
+        "num": 9,
+        "name": "Leandro Trossard",
+        "position": "FW",
+        "caps": "34/9",
+        "birth_year": 1994,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Romelu Lukaku",
+        "position": "FW",
+        "caps": "115/85",
+        "birth_year": 1993,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Dodi Lukebakio",
+        "position": "FW",
+        "caps": "15/2",
+        "birth_year": 1997,
+        "club": "Sevilla FC (ESP)"
+      },
+      {
+        "num": 17,
+        "name": "Charles De Ketelaere",
+        "position": "FW",
+        "caps": "15/2",
+        "birth_year": 2001,
+        "club": "Atalanta BC (ITA)"
+      },
+      {
+        "num": 19,
+        "name": "Johan Bakayoko",
+        "position": "FW",
+        "caps": "12/1",
+        "birth_year": 2003,
+        "club": "PSV Eindhoven (NED)"
+      },
+      {
+        "num": 20,
+        "name": "Loïs Openda",
+        "position": "FW",
+        "caps": "17/2",
+        "birth_year": 2000,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 22,
+        "name": "Jérémy Doku",
+        "position": "FW",
+        "caps": "22/2",
+        "birth_year": 2002,
+        "club": "Manchester City F.C. (ENG)"
+      }
+    ]
+  },
+  {
+    "name": "Chorvatsko",
+    "code": "CRO",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Dominik Livaković",
+        "position": "GK",
+        "caps": "54/0",
+        "birth_year": 1995,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 12,
+        "name": "Nediljko Labrović",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1999,
+        "club": "HNK Rijeka (CRO)"
+      },
+      {
+        "num": 23,
+        "name": "Ivica Ivušić",
+        "position": "GK",
+        "caps": "6/0",
+        "birth_year": 1995,
+        "club": "Pafos FC (CYP)"
+      },
+      {
+        "num": 2,
+        "name": "Josip Stanišić",
+        "position": "DF",
+        "caps": "18/0",
+        "birth_year": 2000,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 3,
+        "name": "Marin Pongračić",
+        "position": "DF",
+        "caps": "8/0",
+        "birth_year": 1997,
+        "club": "US Lecce (ITA)"
+      },
+      {
+        "num": 4,
+        "name": "Joško Gvardiol",
+        "position": "DF",
+        "caps": "30/2",
+        "birth_year": 2002,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "Martin Erlić",
+        "position": "DF",
+        "caps": "9/0",
+        "birth_year": 1998,
+        "club": "US Sassuolo Calcio (ITA)"
+      },
+      {
+        "num": 6,
+        "name": "Josip Šutalo",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 2000,
+        "club": "AFC Ajax (NED)"
+      },
+      {
+        "num": 19,
+        "name": "Borna Sosa",
+        "position": "DF",
+        "caps": "20/1",
+        "birth_year": 1998,
+        "club": "AFC Ajax (NED)"
+      },
+      {
+        "num": 21,
+        "name": "Domagoj Vida",
+        "position": "DF",
+        "caps": "105/4",
+        "birth_year": 1989,
+        "club": "AEK Athens F.C. (GRE)"
+      },
+      {
+        "num": 22,
+        "name": "Josip Juranović",
+        "position": "DF",
+        "caps": "37/0",
+        "birth_year": 1995,
+        "club": "1. FC Union Berlin (GER)"
+      },
+      {
+        "num": 7,
+        "name": "Lovro Majer",
+        "position": "MF",
+        "caps": "31/8",
+        "birth_year": 1998,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 8,
+        "name": "Mateo Kovačić",
+        "position": "MF",
+        "caps": "101/5",
+        "birth_year": 1994,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Luka Modrić",
+        "position": "MF",
+        "caps": "175/25",
+        "birth_year": 1985,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 11,
+        "name": "Marcelo Brozović",
+        "position": "MF",
+        "caps": "96/7",
+        "birth_year": 1992,
+        "club": "Al Nassr FC (KSA)"
+      },
+      {
+        "num": 13,
+        "name": "Nikola Vlašić",
+        "position": "MF",
+        "caps": "56/8",
+        "birth_year": 1997,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Mario Pašalić",
+        "position": "MF",
+        "caps": "63/10",
+        "birth_year": 1995,
+        "club": "Atalanta BC (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Luka Sučić",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 2002,
+        "club": "FC Red Bull Salzburg (AUT)"
+      },
+      {
+        "num": 26,
+        "name": "Martin Baturina",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 2003,
+        "club": "GNK Dinamo Zagreb (CRO)"
+      },
+      {
+        "num": 9,
+        "name": "Andrej Kramarić",
+        "position": "FW",
+        "caps": "93/28",
+        "birth_year": 1991,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 14,
+        "name": "Ivan Perišić",
+        "position": "FW",
+        "caps": "131/33",
+        "birth_year": 1989,
+        "club": "HNK Hajduk Split (CRO)"
+      },
+      {
+        "num": 16,
+        "name": "Ante Budimir",
+        "position": "FW",
+        "caps": "21/3",
+        "birth_year": 1991,
+        "club": "CA Osasuna (ESP)"
+      },
+      {
+        "num": 17,
+        "name": "Bruno Petković",
+        "position": "FW",
+        "caps": "38/11",
+        "birth_year": 1994,
+        "club": "GNK Dinamo Zagreb (CRO)"
+      },
+      {
+        "num": 18,
+        "name": "Luka Ivanušec",
+        "position": "FW",
+        "caps": "21/2",
+        "birth_year": 1998,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 20,
+        "name": "Marko Pjaca",
+        "position": "FW",
+        "caps": "26/1",
+        "birth_year": 1995,
+        "club": "HNK Rijeka (CRO)"
+      },
+      {
+        "num": 24,
+        "name": "Marco Pašalić",
+        "position": "FW",
+        "caps": "5/1",
+        "birth_year": 2000,
+        "club": "HNK Rijeka (CRO)"
+      }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZE",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Jindřich Staněk",
+        "position": "GK",
+        "caps": "10/0",
+        "birth_year": 1996,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 16,
+        "name": "Matěj Kovář",
+        "position": "GK",
+        "caps": "2/0",
+        "birth_year": 2000,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 23,
+        "name": "Vítězslav Jaroš",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 2001,
+        "club": "SK Sturm Graz (AUT)"
+      },
+      {
+        "num": 2,
+        "name": "David Zima",
+        "position": "DF",
+        "caps": "21/1",
+        "birth_year": 2000,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 4,
+        "name": "Robin Hranáč",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 2000,
+        "club": "FC Viktoria Plzeň (CZE)"
+      },
+      {
+        "num": 5,
+        "name": "Vladimír Coufal",
+        "position": "DF",
+        "caps": "42/1",
+        "birth_year": 1992,
+        "club": "West Ham United F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Martin Vitík",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2003,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 12,
+        "name": "David Douděra",
+        "position": "DF",
+        "caps": "9/1",
+        "birth_year": 1998,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 15,
+        "name": "David Jurásek",
+        "position": "DF",
+        "caps": "9/1",
+        "birth_year": 2000,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 18,
+        "name": "Ladislav Krejčí",
+        "position": "DF",
+        "caps": "10/3",
+        "birth_year": 1999,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 24,
+        "name": "Tomáš Vlček",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2001,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 3,
+        "name": "Tomáš Holeš",
+        "position": "MF",
+        "caps": "28/2",
+        "birth_year": 1993,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 7,
+        "name": "Antonín Barák",
+        "position": "MF",
+        "caps": "41/11",
+        "birth_year": 1994,
+        "club": "ACF Fiorentina (ITA)"
+      },
+      {
+        "num": 8,
+        "name": "Petr Ševčík",
+        "position": "MF",
+        "caps": "15/0",
+        "birth_year": 1994,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 14,
+        "name": "Lukáš Provod",
+        "position": "MF",
+        "caps": "19/2",
+        "birth_year": 1996,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 20,
+        "name": "Ondřej Lingr",
+        "position": "MF",
+        "caps": "15/1",
+        "birth_year": 1998,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 21,
+        "name": "Lukáš Červ",
+        "position": "MF",
+        "caps": "1/0",
+        "birth_year": 2001,
+        "club": "FC Viktoria Plzeň (CZE)"
+      },
+      {
+        "num": 22,
+        "name": "Tomáš Souček",
+        "position": "MF",
+        "caps": "69/12",
+        "birth_year": 1995,
+        "club": "West Ham United F.C. (ENG)"
+      },
+      {
+        "num": 25,
+        "name": "Pavel Šulc",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 2000,
+        "club": "FC Viktoria Plzeň (CZE)"
+      },
+      {
+        "num": 26,
+        "name": "Matěj Jurásek",
+        "position": "MF",
+        "caps": "2/1",
+        "birth_year": 2003,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 9,
+        "name": "Adam Hložek",
+        "position": "FW",
+        "caps": "32/2",
+        "birth_year": 2002,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 10,
+        "name": "Patrik Schick",
+        "position": "FW",
+        "caps": "38/19",
+        "birth_year": 1996,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 11,
+        "name": "Jan Kuchta",
+        "position": "FW",
+        "caps": "21/3",
+        "birth_year": 1997,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 13,
+        "name": "Mojmír Chytil",
+        "position": "FW",
+        "caps": "14/6",
+        "birth_year": 1999,
+        "club": "SK Slavia Prague (CZE)"
+      },
+      {
+        "num": 17,
+        "name": "Václav Černý",
+        "position": "FW",
+        "caps": "16/6",
+        "birth_year": 1997,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 19,
+        "name": "Tomáš Chorý",
+        "position": "FW",
+        "caps": "5/2",
+        "birth_year": 1995,
+        "club": "FC Viktoria Plzeň (CZE)"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "DEN",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Kasper Schmeichel",
+        "position": "GK",
+        "caps": "101/0",
+        "birth_year": 1986,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 16,
+        "name": "Mads Hermansen",
+        "position": "GK",
+        "caps": "0/0",
+        "birth_year": 2000,
+        "club": "Leicester City F.C. (ENG)"
+      },
+      {
+        "num": 22,
+        "name": "Frederik Rønnow",
+        "position": "GK",
+        "caps": "10/0",
+        "birth_year": 1992,
+        "club": "1. FC Union Berlin (GER)"
+      },
+      {
+        "num": 2,
+        "name": "Joachim Andersen",
+        "position": "DF",
+        "caps": "32/0",
+        "birth_year": 1996,
+        "club": "Crystal Palace F.C. (ENG)"
+      },
+      {
+        "num": 3,
+        "name": "Jannik Vestergaard",
+        "position": "DF",
+        "caps": "41/3",
+        "birth_year": 1992,
+        "club": "Leicester City F.C. (ENG)"
+      },
+      {
+        "num": 4,
+        "name": "Simon Kjær",
+        "position": "DF",
+        "caps": "132/5",
+        "birth_year": 1989,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 5,
+        "name": "Joakim Mæhle",
+        "position": "DF",
+        "caps": "45/11",
+        "birth_year": 1997,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 6,
+        "name": "Andreas Christensen",
+        "position": "DF",
+        "caps": "69/3",
+        "birth_year": 1996,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 13,
+        "name": "Mathias Jørgensen",
+        "position": "DF",
+        "caps": "37/2",
+        "birth_year": 1990,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 17,
+        "name": "Victor Kristiansen",
+        "position": "DF",
+        "caps": "8/0",
+        "birth_year": 2002,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 18,
+        "name": "Alexander Bah",
+        "position": "DF",
+        "caps": "11/1",
+        "birth_year": 1997,
+        "club": "S.L. Benfica (POR)"
+      },
+      {
+        "num": 25,
+        "name": "Rasmus Kristensen",
+        "position": "DF",
+        "caps": "21/0",
+        "birth_year": 1997,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 7,
+        "name": "Mathias Jensen",
+        "position": "MF",
+        "caps": "30/1",
+        "birth_year": 1996,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Thomas Delaney",
+        "position": "MF",
+        "caps": "78/8",
+        "birth_year": 1991,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 10,
+        "name": "Christian Eriksen",
+        "position": "MF",
+        "caps": "130/41",
+        "birth_year": 1992,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 15,
+        "name": "Christian Nørgaard",
+        "position": "MF",
+        "caps": "25/1",
+        "birth_year": 1994,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 21,
+        "name": "Morten Hjulmand",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 1999,
+        "club": "Sporting CP (POR)"
+      },
+      {
+        "num": 23,
+        "name": "Pierre-Emile Højbjerg",
+        "position": "MF",
+        "caps": "77/10",
+        "birth_year": 1995,
+        "club": "Tottenham Hotspur F.C. (ENG)"
+      },
+      {
+        "num": 24,
+        "name": "Anders Dreyer",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 1998,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 26,
+        "name": "Jacob Bruun Larsen",
+        "position": "MF",
+        "caps": "6/1",
+        "birth_year": 1998,
+        "club": "Burnley F.C. (ENG)"
+      },
+      {
+        "num": 9,
+        "name": "Rasmus Højlund",
+        "position": "FW",
+        "caps": "14/7",
+        "birth_year": 2003,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 11,
+        "name": "Andreas Skov Olsen",
+        "position": "FW",
+        "caps": "30/8",
+        "birth_year": 1999,
+        "club": "Club Brugge KV (BEL)"
+      },
+      {
+        "num": 12,
+        "name": "Kasper Dolberg",
+        "position": "FW",
+        "caps": "47/11",
+        "birth_year": 1997,
+        "club": "R.S.C. Anderlecht (BEL)"
+      },
+      {
+        "num": 14,
+        "name": "Mikkel Damsgaard",
+        "position": "FW",
+        "caps": "27/4",
+        "birth_year": 2000,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 19,
+        "name": "Jonas Wind",
+        "position": "FW",
+        "caps": "27/8",
+        "birth_year": 1999,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 20,
+        "name": "Yussuf Poulsen",
+        "position": "FW",
+        "caps": "79/13",
+        "birth_year": 1994,
+        "club": "RB Leipzig (GER)"
+      }
+    ]
+  },
+  {
+    "name": "England",
+    "code": "ENG",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Jordan Pickford",
+        "position": "GK",
+        "caps": "61/0",
+        "birth_year": 1994,
+        "club": "Everton F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Aaron Ramsdale",
+        "position": "GK",
+        "caps": "5/0",
+        "birth_year": 1998,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 23,
+        "name": "Dean Henderson",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1997,
+        "club": "Crystal Palace F.C. (ENG)"
+      },
+      {
+        "num": 2,
+        "name": "Kyle Walker",
+        "position": "DF",
+        "caps": "83/1",
+        "birth_year": 1990,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 3,
+        "name": "Luke Shaw",
+        "position": "DF",
+        "caps": "31/3",
+        "birth_year": 1995,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "John Stones",
+        "position": "DF",
+        "caps": "72/3",
+        "birth_year": 1994,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Marc Guéhi",
+        "position": "DF",
+        "caps": "11/0",
+        "birth_year": 2000,
+        "club": "Crystal Palace F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Trent Alexander-Arnold",
+        "position": "DF",
+        "caps": "25/3",
+        "birth_year": 1998,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 12,
+        "name": "Kieran Trippier",
+        "position": "DF",
+        "caps": "48/1",
+        "birth_year": 1990,
+        "club": "Newcastle United F.C. (ENG)"
+      },
+      {
+        "num": 14,
+        "name": "Ezri Konsa",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1997,
+        "club": "Aston Villa F.C. (ENG)"
+      },
+      {
+        "num": 15,
+        "name": "Lewis Dunk",
+        "position": "DF",
+        "caps": "6/0",
+        "birth_year": 1991,
+        "club": "Brighton & Hove Albion F.C. (ENG)"
+      },
+      {
+        "num": 22,
+        "name": "Joe Gomez",
+        "position": "DF",
+        "caps": "15/0",
+        "birth_year": 1997,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 4,
+        "name": "Declan Rice",
+        "position": "MF",
+        "caps": "51/3",
+        "birth_year": 1999,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Jude Bellingham",
+        "position": "MF",
+        "caps": "29/3",
+        "birth_year": 2003,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 11,
+        "name": "Phil Foden",
+        "position": "MF",
+        "caps": "34/4",
+        "birth_year": 2000,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 16,
+        "name": "Conor Gallagher",
+        "position": "MF",
+        "caps": "13/0",
+        "birth_year": 2000,
+        "club": "Chelsea F.C. (ENG)"
+      },
+      {
+        "num": 24,
+        "name": "Cole Palmer",
+        "position": "MF",
+        "caps": "4/1",
+        "birth_year": 2002,
+        "club": "Chelsea F.C. (ENG)"
+      },
+      {
+        "num": 25,
+        "name": "Adam Wharton",
+        "position": "MF",
+        "caps": "1/0",
+        "birth_year": 2004,
+        "club": "Crystal Palace F.C. (ENG)"
+      },
+      {
+        "num": 26,
+        "name": "Kobbie Mainoo",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 2005,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 7,
+        "name": "Bukayo Saka",
+        "position": "FW",
+        "caps": "33/11",
+        "birth_year": 2001,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 9,
+        "name": "Harry Kane",
+        "position": "FW",
+        "caps": "91/63",
+        "birth_year": 1993,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 17,
+        "name": "Ivan Toney",
+        "position": "FW",
+        "caps": "3/1",
+        "birth_year": 1996,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 18,
+        "name": "Anthony Gordon",
+        "position": "FW",
+        "caps": "3/0",
+        "birth_year": 2001,
+        "club": "Newcastle United F.C. (ENG)"
+      },
+      {
+        "num": 19,
+        "name": "Ollie Watkins",
+        "position": "FW",
+        "caps": "12/3",
+        "birth_year": 1995,
+        "club": "Aston Villa F.C. (ENG)"
+      },
+      {
+        "num": 20,
+        "name": "Jarrod Bowen",
+        "position": "FW",
+        "caps": "8/0",
+        "birth_year": 1996,
+        "club": "West Ham United F.C. (ENG)"
+      },
+      {
+        "num": 21,
+        "name": "Eberechi Eze",
+        "position": "FW",
+        "caps": "4/0",
+        "birth_year": 1998,
+        "club": "Crystal Palace F.C. (ENG)"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "code": "FRA",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Brice Samba",
+        "position": "GK",
+        "caps": "3/0",
+        "birth_year": 1994,
+        "club": "RC Lens (FRA)"
+      },
+      {
+        "num": 16,
+        "name": "Mike Maignan",
+        "position": "GK",
+        "caps": "16/0",
+        "birth_year": 1995,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 23,
+        "name": "Alphonse Areola",
+        "position": "GK",
+        "caps": "5/0",
+        "birth_year": 1993,
+        "club": "West Ham United F.C. (ENG)"
+      },
+      {
+        "num": 2,
+        "name": "Benjamin Pavard",
+        "position": "DF",
+        "caps": "54/5",
+        "birth_year": 1996,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 3,
+        "name": "Ferland Mendy",
+        "position": "DF",
+        "caps": "10/0",
+        "birth_year": 1995,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 4,
+        "name": "Dayot Upamecano",
+        "position": "DF",
+        "caps": "20/2",
+        "birth_year": 1998,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 5,
+        "name": "Jules Koundé",
+        "position": "DF",
+        "caps": "28/0",
+        "birth_year": 1998,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 17,
+        "name": "William Saliba",
+        "position": "DF",
+        "caps": "15/0",
+        "birth_year": 2001,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 21,
+        "name": "Jonathan Clauss",
+        "position": "DF",
+        "caps": "13/2",
+        "birth_year": 1992,
+        "club": "Olympique de Marseille (FRA)"
+      },
+      {
+        "num": 22,
+        "name": "Théo Hernandez",
+        "position": "DF",
+        "caps": "27/2",
+        "birth_year": 1997,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 24,
+        "name": "Ibrahima Konaté",
+        "position": "DF",
+        "caps": "16/0",
+        "birth_year": 1999,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Eduardo Camavinga",
+        "position": "MF",
+        "caps": "17/1",
+        "birth_year": 2002,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 7,
+        "name": "Antoine Griezmann",
+        "position": "MF",
+        "caps": "129/44",
+        "birth_year": 1991,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 8,
+        "name": "Aurélien Tchouaméni",
+        "position": "MF",
+        "caps": "31/3",
+        "birth_year": 2000,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 13,
+        "name": "N'Golo Kanté",
+        "position": "MF",
+        "caps": "55/2",
+        "birth_year": 1991,
+        "club": "Al-Ittihad Club (KSA)"
+      },
+      {
+        "num": 14,
+        "name": "Adrien Rabiot",
+        "position": "MF",
+        "caps": "43/4",
+        "birth_year": 1995,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 18,
+        "name": "Warren Zaïre-Emery",
+        "position": "MF",
+        "caps": "3/1",
+        "birth_year": 2006,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 19,
+        "name": "Youssouf Fofana",
+        "position": "MF",
+        "caps": "18/3",
+        "birth_year": 1999,
+        "club": "AS Monaco FC (MCO)"
+      },
+      {
+        "num": 9,
+        "name": "Olivier Giroud",
+        "position": "FW",
+        "caps": "133/57",
+        "birth_year": 1986,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 10,
+        "name": "Kylian Mbappé",
+        "position": "FW",
+        "caps": "79/47",
+        "birth_year": 1998,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 11,
+        "name": "Ousmane Dembélé",
+        "position": "FW",
+        "caps": "44/5",
+        "birth_year": 1997,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 12,
+        "name": "Randal Kolo Muani",
+        "position": "FW",
+        "caps": "17/4",
+        "birth_year": 1998,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 15,
+        "name": "Marcus Thuram",
+        "position": "FW",
+        "caps": "20/2",
+        "birth_year": 1997,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 20,
+        "name": "Kingsley Coman",
+        "position": "FW",
+        "caps": "56/8",
+        "birth_year": 1996,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 25,
+        "name": "Bradley Barcola",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "code": "GEO",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Giorgi Loria",
+        "position": "GK",
+        "caps": "78/0",
+        "birth_year": 1986,
+        "club": "FC Dinamo Tbilisi (GEO)"
+      },
+      {
+        "num": 12,
+        "name": "Luka Gugeshashvili",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1999,
+        "club": "Qarabağ FK (AZE)"
+      },
+      {
+        "num": 25,
+        "name": "Giorgi Mamardashvili",
+        "position": "GK",
+        "caps": "17/0",
+        "birth_year": 2000,
+        "club": "Valencia CF (ESP)"
+      },
+      {
+        "num": 2,
+        "name": "Otar Kakabadze",
+        "position": "DF",
+        "caps": "61/0",
+        "birth_year": 1995,
+        "club": "MKS Cracovia (POL)"
+      },
+      {
+        "num": 3,
+        "name": "Lasha Dvali",
+        "position": "DF",
+        "caps": "32/1",
+        "birth_year": 1995,
+        "club": "APOEL FC (CYP)"
+      },
+      {
+        "num": 4,
+        "name": "Guram Kashia",
+        "position": "DF",
+        "caps": "113/3",
+        "birth_year": 1987,
+        "club": "ŠK Slovan Bratislava (SVK)"
+      },
+      {
+        "num": 5,
+        "name": "Solomon Kvirkvelia",
+        "position": "DF",
+        "caps": "58/0",
+        "birth_year": 1992,
+        "club": "Al-Okhdood Club (KSA)"
+      },
+      {
+        "num": 13,
+        "name": "Giorgi Gocholeishvili",
+        "position": "DF",
+        "caps": "8/0",
+        "birth_year": 2001,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 14,
+        "name": "Luka Lochoshvili",
+        "position": "DF",
+        "caps": "10/1",
+        "birth_year": 1998,
+        "club": "US Cremonese (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Giorgi Gvelesiani",
+        "position": "DF",
+        "caps": "1/0",
+        "birth_year": 1991,
+        "club": "Persepolis F.C. (IRI)"
+      },
+      {
+        "num": 24,
+        "name": "Jemal Tabidze",
+        "position": "DF",
+        "caps": "15/1",
+        "birth_year": 1996,
+        "club": "Panetolikos F.C. (GRE)"
+      },
+      {
+        "num": 6,
+        "name": "Giorgi Kochorashvili",
+        "position": "MF",
+        "caps": "8/0",
+        "birth_year": 1999,
+        "club": "Levante UD (ESP)"
+      },
+      {
+        "num": 9,
+        "name": "Zuriko Davitashvili",
+        "position": "MF",
+        "caps": "35/6",
+        "birth_year": 2001,
+        "club": "FC Girondins de Bordeaux (FRA)"
+      },
+      {
+        "num": 10,
+        "name": "Giorgi Chakvetadze",
+        "position": "MF",
+        "caps": "25/8",
+        "birth_year": 1999,
+        "club": "Watford F.C. (ENG)"
+      },
+      {
+        "num": 16,
+        "name": "Nika Kvekveskiri",
+        "position": "MF",
+        "caps": "60/0",
+        "birth_year": 1992,
+        "club": "Lech Poznań (POL)"
+      },
+      {
+        "num": 17,
+        "name": "Otar Kiteishvili",
+        "position": "MF",
+        "caps": "37/3",
+        "birth_year": 1996,
+        "club": "SK Sturm Graz (AUT)"
+      },
+      {
+        "num": 18,
+        "name": "Sandro Altunashvili",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 1997,
+        "club": "Wolfsberger AC (AUT)"
+      },
+      {
+        "num": 19,
+        "name": "Levan Shengelia",
+        "position": "MF",
+        "caps": "17/1",
+        "birth_year": 1995,
+        "club": "Panetolikos F.C. (GRE)"
+      },
+      {
+        "num": 20,
+        "name": "Anzor Mekvabishvili",
+        "position": "MF",
+        "caps": "14/0",
+        "birth_year": 2001,
+        "club": "CS Universitatea Craiova (ROU)"
+      },
+      {
+        "num": 21,
+        "name": "Giorgi Tsitaishvili",
+        "position": "MF",
+        "caps": "17/1",
+        "birth_year": 2000,
+        "club": "FC Dinamo Batumi (GEO)"
+      },
+      {
+        "num": 23,
+        "name": "Saba Lobzhanidze",
+        "position": "MF",
+        "caps": "36/3",
+        "birth_year": 1994,
+        "club": "Atlanta United FC (USA)"
+      },
+      {
+        "num": 26,
+        "name": "Gabriel Sigua",
+        "position": "MF",
+        "caps": "2/0",
+        "birth_year": 2005,
+        "club": "FC Basel (SUI)"
+      },
+      {
+        "num": 7,
+        "name": "Khvicha Kvaratskhelia",
+        "position": "FW",
+        "caps": "30/15",
+        "birth_year": 2001,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 8,
+        "name": "Budu Zivzivadze",
+        "position": "FW",
+        "caps": "26/8",
+        "birth_year": 1994,
+        "club": "Karlsruher SC (GER)"
+      },
+      {
+        "num": 11,
+        "name": "Giorgi Kvilitaia",
+        "position": "FW",
+        "caps": "37/6",
+        "birth_year": 1993,
+        "club": "APOEL FC (CYP)"
+      },
+      {
+        "num": 22,
+        "name": "Georges Mikautadze",
+        "position": "FW",
+        "caps": "25/10",
+        "birth_year": 2000,
+        "club": "FC Metz (FRA)"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "GER",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Manuel Neuer",
+        "position": "GK",
+        "caps": "119/0",
+        "birth_year": 1986,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 12,
+        "name": "Oliver Baumann",
+        "position": "GK",
+        "caps": "0/0",
+        "birth_year": 1990,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 22,
+        "name": "Marc-André ter Stegen",
+        "position": "GK",
+        "caps": "40/0",
+        "birth_year": 1992,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 2,
+        "name": "Antonio Rüdiger",
+        "position": "DF",
+        "caps": "69/3",
+        "birth_year": 1993,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 3,
+        "name": "David Raum",
+        "position": "DF",
+        "caps": "21/0",
+        "birth_year": 1998,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 4,
+        "name": "Jonathan Tah",
+        "position": "DF",
+        "caps": "25/0",
+        "birth_year": 1996,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 6,
+        "name": "Joshua Kimmich",
+        "position": "DF",
+        "caps": "86/6",
+        "birth_year": 1995,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 15,
+        "name": "Nico Schlotterbeck",
+        "position": "DF",
+        "caps": "12/0",
+        "birth_year": 1999,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 16,
+        "name": "Waldemar Anton",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 1996,
+        "club": "VfB Stuttgart (GER)"
+      },
+      {
+        "num": 18,
+        "name": "Maximilian Mittelstädt",
+        "position": "DF",
+        "caps": "4/1",
+        "birth_year": 1997,
+        "club": "VfB Stuttgart (GER)"
+      },
+      {
+        "num": 20,
+        "name": "Benjamin Henrichs",
+        "position": "DF",
+        "caps": "15/0",
+        "birth_year": 1997,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 24,
+        "name": "Robin Koch",
+        "position": "DF",
+        "caps": "9/0",
+        "birth_year": 1996,
+        "club": "Eintracht Frankfurt (GER)"
+      },
+      {
+        "num": 5,
+        "name": "Pascal Groß",
+        "position": "MF",
+        "caps": "7/1",
+        "birth_year": 1991,
+        "club": "Brighton & Hove Albion F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Toni Kroos",
+        "position": "MF",
+        "caps": "109/17",
+        "birth_year": 1990,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 10,
+        "name": "Jamal Musiala",
+        "position": "MF",
+        "caps": "29/2",
+        "birth_year": 2003,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 11,
+        "name": "Chris Führich",
+        "position": "MF",
+        "caps": "4/0",
+        "birth_year": 1998,
+        "club": "VfB Stuttgart (GER)"
+      },
+      {
+        "num": 17,
+        "name": "Florian Wirtz",
+        "position": "MF",
+        "caps": "18/1",
+        "birth_year": 2003,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 19,
+        "name": "Leroy Sané",
+        "position": "MF",
+        "caps": "60/13",
+        "birth_year": 1996,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 21,
+        "name": "İlkay Gündoğan",
+        "position": "MF",
+        "caps": "77/18",
+        "birth_year": 1990,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 23,
+        "name": "Robert Andrich",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 1994,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 25,
+        "name": "Emre Can",
+        "position": "MF",
+        "caps": "43/1",
+        "birth_year": 1994,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 7,
+        "name": "Kai Havertz",
+        "position": "FW",
+        "caps": "46/16",
+        "birth_year": 1999,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 9,
+        "name": "Niclas Füllkrug",
+        "position": "FW",
+        "caps": "16/11",
+        "birth_year": 1993,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 13,
+        "name": "Thomas Müller",
+        "position": "FW",
+        "caps": "129/45",
+        "birth_year": 1989,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 14,
+        "name": "Maximilian Beier",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 2002,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 26,
+        "name": "Deniz Undav",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 1996,
+        "club": "VfB Stuttgart (GER)"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "HUN",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Péter Gulácsi",
+        "position": "GK",
+        "caps": "54/0",
+        "birth_year": 1990,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 12,
+        "name": "Dénes Dibusz",
+        "position": "GK",
+        "caps": "36/0",
+        "birth_year": 1990,
+        "club": "Ferencvárosi TC (HUN)"
+      },
+      {
+        "num": 22,
+        "name": "Péter Szappanos",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1990,
+        "club": "Paksi FC (HUN)"
+      },
+      {
+        "num": 2,
+        "name": "Ádám Lang",
+        "position": "DF",
+        "caps": "69/2",
+        "birth_year": 1993,
+        "club": "AC Omonia (CYP)"
+      },
+      {
+        "num": 3,
+        "name": "Botond Balogh",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 2002,
+        "club": "Parma Calcio 1913 (ITA)"
+      },
+      {
+        "num": 4,
+        "name": "Attila Szalai",
+        "position": "DF",
+        "caps": "44/1",
+        "birth_year": 1998,
+        "club": "SC Freiburg (GER)"
+      },
+      {
+        "num": 5,
+        "name": "Attila Fiola",
+        "position": "DF",
+        "caps": "57/2",
+        "birth_year": 1990,
+        "club": "Fehérvár FC (HUN)"
+      },
+      {
+        "num": 6,
+        "name": "Willi Orbán",
+        "position": "DF",
+        "caps": "45/6",
+        "birth_year": 1992,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 7,
+        "name": "Loïc Négo",
+        "position": "DF",
+        "caps": "36/2",
+        "birth_year": 1991,
+        "club": "Le Havre AC (FRA)"
+      },
+      {
+        "num": 11,
+        "name": "Milos Kerkez",
+        "position": "DF",
+        "caps": "16/0",
+        "birth_year": 2003,
+        "club": "AFC Bournemouth (ENG)"
+      },
+      {
+        "num": 14,
+        "name": "Bendegúz Bolla",
+        "position": "DF",
+        "caps": "17/0",
+        "birth_year": 1999,
+        "club": "Servette FC (SUI)"
+      },
+      {
+        "num": 18,
+        "name": "Zsolt Nagy",
+        "position": "DF",
+        "caps": "20/3",
+        "birth_year": 1993,
+        "club": "Puskás Akadémia FC (HUN)"
+      },
+      {
+        "num": 21,
+        "name": "Endre Botka",
+        "position": "DF",
+        "caps": "26/1",
+        "birth_year": 1994,
+        "club": "Ferencvárosi TC (HUN)"
+      },
+      {
+        "num": 24,
+        "name": "Márton Dárdai",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 2002,
+        "club": "Hertha BSC (GER)"
+      },
+      {
+        "num": 8,
+        "name": "Ádám Nagy",
+        "position": "MF",
+        "caps": "81/2",
+        "birth_year": 1995,
+        "club": "Spezia Calcio (ITA)"
+      },
+      {
+        "num": 10,
+        "name": "Dominik Szoboszlai",
+        "position": "MF",
+        "caps": "42/12",
+        "birth_year": 2000,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "András Schäfer",
+        "position": "MF",
+        "caps": "25/3",
+        "birth_year": 1999,
+        "club": "1. FC Union Berlin (GER)"
+      },
+      {
+        "num": 15,
+        "name": "László Kleinheisler",
+        "position": "MF",
+        "caps": "51/3",
+        "birth_year": 1994,
+        "club": "HNK Hajduk Split (CRO)"
+      },
+      {
+        "num": 16,
+        "name": "Dániel Gazdag",
+        "position": "MF",
+        "caps": "25/4",
+        "birth_year": 1996,
+        "club": "Philadelphia Union (USA)"
+      },
+      {
+        "num": 17,
+        "name": "Callum Styles",
+        "position": "MF",
+        "caps": "22/0",
+        "birth_year": 2000,
+        "club": "Sunderland A.F.C. (ENG)"
+      },
+      {
+        "num": 26,
+        "name": "Mihály Kata",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 2002,
+        "club": "MTK Budapest FC (HUN)"
+      },
+      {
+        "num": 9,
+        "name": "Martin Ádám",
+        "position": "FW",
+        "caps": "22/3",
+        "birth_year": 1994,
+        "club": "Ulsan HD FC (KOR)"
+      },
+      {
+        "num": 19,
+        "name": "Barnabás Varga",
+        "position": "FW",
+        "caps": "11/6",
+        "birth_year": 1994,
+        "club": "Ferencvárosi TC (HUN)"
+      },
+      {
+        "num": 20,
+        "name": "Roland Sallai",
+        "position": "FW",
+        "caps": "49/13",
+        "birth_year": 1997,
+        "club": "SC Freiburg (GER)"
+      },
+      {
+        "num": 23,
+        "name": "Kevin Csoboth",
+        "position": "FW",
+        "caps": "8/0",
+        "birth_year": 2000,
+        "club": "Újpest FC (HUN)"
+      },
+      {
+        "num": 25,
+        "name": "Krisztofer Horváth",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "Kecskeméti TE (HUN)"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "ITA",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Gianluigi Donnarumma",
+        "position": "GK",
+        "caps": "62/0",
+        "birth_year": 1999,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 12,
+        "name": "Guglielmo Vicario",
+        "position": "GK",
+        "caps": "2/0",
+        "birth_year": 1996,
+        "club": "Tottenham Hotspur F.C. (ENG)"
+      },
+      {
+        "num": 26,
+        "name": "Alex Meret",
+        "position": "GK",
+        "caps": "3/0",
+        "birth_year": 1997,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 2,
+        "name": "Giovanni Di Lorenzo",
+        "position": "DF",
+        "caps": "35/3",
+        "birth_year": 1993,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 3,
+        "name": "Federico Dimarco",
+        "position": "DF",
+        "caps": "19/2",
+        "birth_year": 1997,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 4,
+        "name": "Alessandro Buongiorno",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1999,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 5,
+        "name": "Riccardo Calafiori",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 6,
+        "name": "Federico Gatti",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 1998,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Matteo Darmian",
+        "position": "DF",
+        "caps": "43/2",
+        "birth_year": 1989,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Raoul Bellanova",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2000,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 17,
+        "name": "Gianluca Mancini",
+        "position": "DF",
+        "caps": "13/0",
+        "birth_year": 1996,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 23,
+        "name": "Alessandro Bastoni",
+        "position": "DF",
+        "caps": "23/1",
+        "birth_year": 1999,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 24,
+        "name": "Andrea Cambiaso",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 2000,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 7,
+        "name": "Davide Frattesi",
+        "position": "MF",
+        "caps": "15/5",
+        "birth_year": 1999,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 8,
+        "name": "Jorginho",
+        "position": "MF",
+        "caps": "54/5",
+        "birth_year": 1991,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Lorenzo Pellegrini",
+        "position": "MF",
+        "caps": "30/6",
+        "birth_year": 1996,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 16,
+        "name": "Bryan Cristante",
+        "position": "MF",
+        "caps": "40/2",
+        "birth_year": 1995,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 18,
+        "name": "Nicolò Barella",
+        "position": "MF",
+        "caps": "53/9",
+        "birth_year": 1997,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Nicolò Fagioli",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 2001,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 9,
+        "name": "Gianluca Scamacca",
+        "position": "FW",
+        "caps": "16/1",
+        "birth_year": 1999,
+        "club": "Atalanta BC (ITA)"
+      },
+      {
+        "num": 11,
+        "name": "Giacomo Raspadori",
+        "position": "FW",
+        "caps": "28/6",
+        "birth_year": 2000,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Federico Chiesa",
+        "position": "FW",
+        "caps": "47/7",
+        "birth_year": 1997,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 19,
+        "name": "Mateo Retegui",
+        "position": "FW",
+        "caps": "8/4",
+        "birth_year": 1999,
+        "club": "Genoa CFC (ITA)"
+      },
+      {
+        "num": 20,
+        "name": "Mattia Zaccagni",
+        "position": "FW",
+        "caps": "5/0",
+        "birth_year": 1995,
+        "club": "SS Lazio (ITA)"
+      },
+      {
+        "num": 22,
+        "name": "Stephan El Shaarawy",
+        "position": "FW",
+        "caps": "31/7",
+        "birth_year": 1992,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Michael Folorunsho",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 1998,
+        "club": "Hellas Verona FC (ITA)"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "code": "NED",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Bart Verbruggen",
+        "position": "GK",
+        "caps": "7/0",
+        "birth_year": 2002,
+        "club": "Brighton & Hove Albion F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Justin Bijlow",
+        "position": "GK",
+        "caps": "8/0",
+        "birth_year": 1998,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 23,
+        "name": "Mark Flekken",
+        "position": "GK",
+        "caps": "7/0",
+        "birth_year": 1993,
+        "club": "Brentford F.C. (ENG)"
+      },
+      {
+        "num": 2,
+        "name": "Lutsharel Geertruida",
+        "position": "DF",
+        "caps": "9/0",
+        "birth_year": 2000,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 3,
+        "name": "Matthijs de Ligt",
+        "position": "DF",
+        "caps": "45/2",
+        "birth_year": 1999,
+        "club": "FC Bayern Munich (GER)"
+      },
+      {
+        "num": 4,
+        "name": "Virgil van Dijk",
+        "position": "DF",
+        "caps": "68/9",
+        "birth_year": 1991,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "Nathan Aké",
+        "position": "DF",
+        "caps": "45/5",
+        "birth_year": 1995,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Stefan de Vrij",
+        "position": "DF",
+        "caps": "64/3",
+        "birth_year": 1992,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 12,
+        "name": "Jeremie Frimpong",
+        "position": "DF",
+        "caps": "4/1",
+        "birth_year": 2000,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 15,
+        "name": "Micky van de Ven",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 2001,
+        "club": "Tottenham Hotspur F.C. (ENG)"
+      },
+      {
+        "num": 17,
+        "name": "Daley Blind",
+        "position": "DF",
+        "caps": "107/3",
+        "birth_year": 1990,
+        "club": "Girona FC (ESP)"
+      },
+      {
+        "num": 22,
+        "name": "Denzel Dumfries",
+        "position": "DF",
+        "caps": "53/6",
+        "birth_year": 1996,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 7,
+        "name": "Xavi Simons",
+        "position": "MF",
+        "caps": "14/1",
+        "birth_year": 2003,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 8,
+        "name": "Georginio Wijnaldum",
+        "position": "MF",
+        "caps": "93/28",
+        "birth_year": 1990,
+        "club": "Al-Ettifaq FC (KSA)"
+      },
+      {
+        "num": 14,
+        "name": "Tijjani Reijnders",
+        "position": "MF",
+        "caps": "9/1",
+        "birth_year": 1998,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 16,
+        "name": "Joey Veerman",
+        "position": "MF",
+        "caps": "10/1",
+        "birth_year": 1998,
+        "club": "PSV Eindhoven (NED)"
+      },
+      {
+        "num": 20,
+        "name": "Ian Maatsen",
+        "position": "MF",
+        "caps": "0/0",
+        "birth_year": 2002,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 24,
+        "name": "Jerdy Schouten",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 1997,
+        "club": "PSV Eindhoven (NED)"
+      },
+      {
+        "num": 26,
+        "name": "Ryan Gravenberch",
+        "position": "MF",
+        "caps": "12/1",
+        "birth_year": 2002,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 9,
+        "name": "Wout Weghorst",
+        "position": "FW",
+        "caps": "33/11",
+        "birth_year": 1992,
+        "club": "TSG 1899 Hoffenheim (GER)"
+      },
+      {
+        "num": 10,
+        "name": "Memphis Depay",
+        "position": "FW",
+        "caps": "92/45",
+        "birth_year": 1994,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 11,
+        "name": "Cody Gakpo",
+        "position": "FW",
+        "caps": "24/9",
+        "birth_year": 1999,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 18,
+        "name": "Donyell Malen",
+        "position": "FW",
+        "caps": "32/7",
+        "birth_year": 1999,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 19,
+        "name": "Brian Brobbey",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "AFC Ajax (NED)"
+      },
+      {
+        "num": 21,
+        "name": "Joshua Zirkzee",
+        "position": "FW",
+        "caps": "0/0",
+        "birth_year": 2001,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Steven Bergwijn",
+        "position": "FW",
+        "caps": "33/8",
+        "birth_year": 1997,
+        "club": "AFC Ajax (NED)"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "POL",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Wojciech Szczęsny",
+        "position": "GK",
+        "caps": "82/0",
+        "birth_year": 1990,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 12,
+        "name": "Łukasz Skorupski",
+        "position": "GK",
+        "caps": "10/0",
+        "birth_year": 1991,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 22,
+        "name": "Marcin Bułka",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1999,
+        "club": "OGC Nice (FRA)"
+      },
+      {
+        "num": 2,
+        "name": "Bartosz Salamon",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 1991,
+        "club": "Lech Poznań (POL)"
+      },
+      {
+        "num": 3,
+        "name": "Paweł Dawidowicz",
+        "position": "DF",
+        "caps": "11/0",
+        "birth_year": 1995,
+        "club": "Hellas Verona FC (ITA)"
+      },
+      {
+        "num": 4,
+        "name": "Sebastian Walukiewicz",
+        "position": "DF",
+        "caps": "4/1",
+        "birth_year": 2000,
+        "club": "Empoli FC (ITA)"
+      },
+      {
+        "num": 5,
+        "name": "Jan Bednarek",
+        "position": "DF",
+        "caps": "57/1",
+        "birth_year": 1996,
+        "club": "Southampton F.C. (ENG)"
+      },
+      {
+        "num": 14,
+        "name": "Jakub Kiwior",
+        "position": "DF",
+        "caps": "23/1",
+        "birth_year": 2000,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 15,
+        "name": "Tymoteusz Puchacz",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 1999,
+        "club": "1. FC Kaiserslautern (GER)"
+      },
+      {
+        "num": 18,
+        "name": "Bartosz Bereszyński",
+        "position": "DF",
+        "caps": "55/0",
+        "birth_year": 1992,
+        "club": "Empoli FC (ITA)"
+      },
+      {
+        "num": 6,
+        "name": "Jakub Piotrowski",
+        "position": "MF",
+        "caps": "6/2",
+        "birth_year": 1997,
+        "club": "PFC Ludogorets Razgrad (BUL)"
+      },
+      {
+        "num": 8,
+        "name": "Jakub Moder",
+        "position": "MF",
+        "caps": "23/2",
+        "birth_year": 1999,
+        "club": "Brighton & Hove Albion F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Piotr Zieliński",
+        "position": "MF",
+        "caps": "90/12",
+        "birth_year": 1994,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Taras Romanczuk",
+        "position": "MF",
+        "caps": "3/1",
+        "birth_year": 1991,
+        "club": "Jagiellonia Białystok (POL)"
+      },
+      {
+        "num": 17,
+        "name": "Damian Szymański",
+        "position": "MF",
+        "caps": "18/2",
+        "birth_year": 1995,
+        "club": "AEK Athens F.C. (GRE)"
+      },
+      {
+        "num": 19,
+        "name": "Przemysław Frankowski",
+        "position": "MF",
+        "caps": "41/3",
+        "birth_year": 1995,
+        "club": "RC Lens (FRA)"
+      },
+      {
+        "num": 20,
+        "name": "Sebastian Szymański",
+        "position": "MF",
+        "caps": "34/3",
+        "birth_year": 1999,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 21,
+        "name": "Nicola Zalewski",
+        "position": "MF",
+        "caps": "18/1",
+        "birth_year": 2002,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 24,
+        "name": "Bartosz Slisz",
+        "position": "MF",
+        "caps": "9/0",
+        "birth_year": 1999,
+        "club": "Atlanta United FC (USA)"
+      },
+      {
+        "num": 25,
+        "name": "Michał Skóraś",
+        "position": "MF",
+        "caps": "8/0",
+        "birth_year": 2000,
+        "club": "Club Brugge KV (BEL)"
+      },
+      {
+        "num": 26,
+        "name": "Kacper Urbański",
+        "position": "MF",
+        "caps": "2/0",
+        "birth_year": 2004,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 7,
+        "name": "Karol Świderski",
+        "position": "FW",
+        "caps": "31/11",
+        "birth_year": 1997,
+        "club": "Hellas Verona FC (ITA)"
+      },
+      {
+        "num": 9,
+        "name": "Robert Lewandowski",
+        "position": "FW",
+        "caps": "150/82",
+        "birth_year": 1988,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 11,
+        "name": "Kamil Grosicki",
+        "position": "FW",
+        "caps": "93/17",
+        "birth_year": 1988,
+        "club": "Pogoń Szczecin (POL)"
+      },
+      {
+        "num": 16,
+        "name": "Adam Buksa",
+        "position": "FW",
+        "caps": "15/6",
+        "birth_year": 1996,
+        "club": "Antalyaspor (TUR)"
+      },
+      {
+        "num": 23,
+        "name": "Krzysztof Piątek",
+        "position": "FW",
+        "caps": "29/11",
+        "birth_year": 1995,
+        "club": "İstanbul Başakşehir F.K. (TUR)"
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "code": "POR",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Rui Patrício",
+        "position": "GK",
+        "caps": "108/0",
+        "birth_year": 1988,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 12,
+        "name": "José Sá",
+        "position": "GK",
+        "caps": "2/0",
+        "birth_year": 1993,
+        "club": "Wolverhampton Wanderers F.C. (ENG)"
+      },
+      {
+        "num": 22,
+        "name": "Diogo Costa",
+        "position": "GK",
+        "caps": "22/0",
+        "birth_year": 1999,
+        "club": "FC Porto (POR)"
+      },
+      {
+        "num": 2,
+        "name": "Nélson Semedo",
+        "position": "DF",
+        "caps": "30/0",
+        "birth_year": 1993,
+        "club": "Wolverhampton Wanderers F.C. (ENG)"
+      },
+      {
+        "num": 3,
+        "name": "Pepe",
+        "position": "DF",
+        "caps": "137/8",
+        "birth_year": 1983,
+        "club": "FC Porto (POR)"
+      },
+      {
+        "num": 4,
+        "name": "Rúben Dias",
+        "position": "DF",
+        "caps": "56/3",
+        "birth_year": 1997,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "Diogo Dalot",
+        "position": "DF",
+        "caps": "20/2",
+        "birth_year": 1999,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 14,
+        "name": "Gonçalo Inácio",
+        "position": "DF",
+        "caps": "9/2",
+        "birth_year": 2001,
+        "club": "Sporting CP (POR)"
+      },
+      {
+        "num": 19,
+        "name": "Nuno Mendes",
+        "position": "DF",
+        "caps": "23/0",
+        "birth_year": 2002,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 20,
+        "name": "João Cancelo",
+        "position": "DF",
+        "caps": "54/10",
+        "birth_year": 1994,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 24,
+        "name": "António Silva",
+        "position": "DF",
+        "caps": "11/0",
+        "birth_year": 2003,
+        "club": "S.L. Benfica (POR)"
+      },
+      {
+        "num": 6,
+        "name": "João Palhinha",
+        "position": "MF",
+        "caps": "27/2",
+        "birth_year": 1995,
+        "club": "Fulham F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Bruno Fernandes",
+        "position": "MF",
+        "caps": "67/22",
+        "birth_year": 1994,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 10,
+        "name": "Bernardo Silva",
+        "position": "MF",
+        "caps": "89/11",
+        "birth_year": 1994,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Danilo Pereira",
+        "position": "MF",
+        "caps": "73/2",
+        "birth_year": 1991,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 15,
+        "name": "João Neves",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 2004,
+        "club": "S.L. Benfica (POR)"
+      },
+      {
+        "num": 16,
+        "name": "Matheus Nunes",
+        "position": "MF",
+        "caps": "14/2",
+        "birth_year": 1998,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 18,
+        "name": "Rúben Neves",
+        "position": "MF",
+        "caps": "47/0",
+        "birth_year": 1997,
+        "club": "Al Hilal SFC (KSA)"
+      },
+      {
+        "num": 23,
+        "name": "Vitinha",
+        "position": "MF",
+        "caps": "17/0",
+        "birth_year": 2000,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 25,
+        "name": "Pedro Neto",
+        "position": "MF",
+        "caps": "7/1",
+        "birth_year": 2000,
+        "club": "Wolverhampton Wanderers F.C. (ENG)"
+      },
+      {
+        "num": 7,
+        "name": "Cristiano Ronaldo",
+        "position": "FW",
+        "caps": "207/130",
+        "birth_year": 1985,
+        "club": "Al Nassr FC (KSA)"
+      },
+      {
+        "num": 9,
+        "name": "Gonçalo Ramos",
+        "position": "FW",
+        "caps": "13/8",
+        "birth_year": 2001,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 11,
+        "name": "João Félix",
+        "position": "FW",
+        "caps": "39/8",
+        "birth_year": 1999,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 17,
+        "name": "Rafael Leão",
+        "position": "FW",
+        "caps": "27/4",
+        "birth_year": 1999,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Diogo Jota",
+        "position": "FW",
+        "caps": "39/14",
+        "birth_year": 1996,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 26,
+        "name": "Francisco Conceição",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "FC Porto (POR)"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "code": "ROU",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Florin Niță",
+        "position": "GK",
+        "caps": "21/0",
+        "birth_year": 1987,
+        "club": "Gaziantep F.K. (TUR)"
+      },
+      {
+        "num": 12,
+        "name": "Horațiu Moldovan",
+        "position": "GK",
+        "caps": "11/0",
+        "birth_year": 1998,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 16,
+        "name": "Ștefan Târnovanu",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 2000,
+        "club": "FCSB (ROU)"
+      },
+      {
+        "num": 2,
+        "name": "Andrei Rațiu",
+        "position": "DF",
+        "caps": "17/1",
+        "birth_year": 1998,
+        "club": "Rayo Vallecano (ESP)"
+      },
+      {
+        "num": 3,
+        "name": "Radu Drăgușin",
+        "position": "DF",
+        "caps": "17/0",
+        "birth_year": 2002,
+        "club": "Tottenham Hotspur F.C. (ENG)"
+      },
+      {
+        "num": 4,
+        "name": "Adrian Rus",
+        "position": "DF",
+        "caps": "20/1",
+        "birth_year": 1996,
+        "club": "Pafos FC (CYP)"
+      },
+      {
+        "num": 5,
+        "name": "Ionuț Nedelcearu",
+        "position": "DF",
+        "caps": "27/2",
+        "birth_year": 1996,
+        "club": "Palermo FC (ITA)"
+      },
+      {
+        "num": 11,
+        "name": "Nicușor Bancu",
+        "position": "DF",
+        "caps": "36/2",
+        "birth_year": 1992,
+        "club": "CS Universitatea Craiova (ROU)"
+      },
+      {
+        "num": 15,
+        "name": "Andrei Burcă",
+        "position": "DF",
+        "caps": "27/1",
+        "birth_year": 1993,
+        "club": "Al-Okhdood Club (KSA)"
+      },
+      {
+        "num": 22,
+        "name": "Vasile Mogoș",
+        "position": "DF",
+        "caps": "7/0",
+        "birth_year": 1992,
+        "club": "CFR Cluj (ROU)"
+      },
+      {
+        "num": 24,
+        "name": "Bogdan Racovițan",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 2000,
+        "club": "Raków Częstochowa (POL)"
+      },
+      {
+        "num": 6,
+        "name": "Marius Marin",
+        "position": "MF",
+        "caps": "18/0",
+        "birth_year": 1998,
+        "club": "Pisa SC (ITA)"
+      },
+      {
+        "num": 8,
+        "name": "Alexandru Cicâldău",
+        "position": "MF",
+        "caps": "37/4",
+        "birth_year": 1997,
+        "club": "Konyaspor (TUR)"
+      },
+      {
+        "num": 10,
+        "name": "Ianis Hagi",
+        "position": "MF",
+        "caps": "35/5",
+        "birth_year": 1998,
+        "club": "Deportivo Alavés (ESP)"
+      },
+      {
+        "num": 14,
+        "name": "Darius Olaru",
+        "position": "MF",
+        "caps": "18/0",
+        "birth_year": 1998,
+        "club": "FCSB (ROU)"
+      },
+      {
+        "num": 18,
+        "name": "Răzvan Marin",
+        "position": "MF",
+        "caps": "55/3",
+        "birth_year": 1996,
+        "club": "Empoli FC (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Nicolae Stanciu",
+        "position": "MF",
+        "caps": "70/14",
+        "birth_year": 1993,
+        "club": "Damac FC (KSA)"
+      },
+      {
+        "num": 23,
+        "name": "Deian Sorescu",
+        "position": "MF",
+        "caps": "17/0",
+        "birth_year": 1997,
+        "club": "Gaziantep F.K. (TUR)"
+      },
+      {
+        "num": 26,
+        "name": "Adrian Șut",
+        "position": "MF",
+        "caps": "2/0",
+        "birth_year": 1999,
+        "club": "FCSB (ROU)"
+      },
+      {
+        "num": 7,
+        "name": "Denis Alibec",
+        "position": "FW",
+        "caps": "37/5",
+        "birth_year": 1991,
+        "club": "Muaither SC (QAT)"
+      },
+      {
+        "num": 9,
+        "name": "George Pușcaș",
+        "position": "FW",
+        "caps": "42/11",
+        "birth_year": 1996,
+        "club": "SSC Bari (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Valentin Mihăilă",
+        "position": "FW",
+        "caps": "21/4",
+        "birth_year": 2000,
+        "club": "Parma Calcio 1913 (ITA)"
+      },
+      {
+        "num": 17,
+        "name": "Florinel Coman",
+        "position": "FW",
+        "caps": "15/1",
+        "birth_year": 1998,
+        "club": "FCSB (ROU)"
+      },
+      {
+        "num": 19,
+        "name": "Denis Drăguș",
+        "position": "FW",
+        "caps": "11/2",
+        "birth_year": 1999,
+        "club": "Gaziantep F.K. (TUR)"
+      },
+      {
+        "num": 20,
+        "name": "Dennis Man",
+        "position": "FW",
+        "caps": "24/7",
+        "birth_year": 1998,
+        "club": "Parma Calcio 1913 (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Daniel Bîrligea",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2000,
+        "club": "CFR Cluj (ROU)"
+      }
+    ]
+  },
+  {
+    "name": "Scotland",
+    "code": "SCO",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Angus Gunn",
+        "position": "GK",
+        "caps": "10/0",
+        "birth_year": 1996,
+        "club": "Norwich City F.C. (ENG)"
+      },
+      {
+        "num": 12,
+        "name": "Liam Kelly",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1996,
+        "club": "Motherwell F.C. (SCO)"
+      },
+      {
+        "num": 21,
+        "name": "Zander Clark",
+        "position": "GK",
+        "caps": "4/0",
+        "birth_year": 1992,
+        "club": "Heart of Midlothian F.C. (SCO)"
+      },
+      {
+        "num": 2,
+        "name": "Anthony Ralston",
+        "position": "DF",
+        "caps": "9/1",
+        "birth_year": 1998,
+        "club": "Celtic F.C. (SCO)"
+      },
+      {
+        "num": 3,
+        "name": "Andrew Robertson",
+        "position": "DF",
+        "caps": "71/3",
+        "birth_year": 1994,
+        "club": "Liverpool F.C. (ENG)"
+      },
+      {
+        "num": 5,
+        "name": "Grant Hanley",
+        "position": "DF",
+        "caps": "50/2",
+        "birth_year": 1991,
+        "club": "Norwich City F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Kieran Tierney",
+        "position": "DF",
+        "caps": "45/1",
+        "birth_year": 1997,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 13,
+        "name": "Jack Hendry",
+        "position": "DF",
+        "caps": "31/3",
+        "birth_year": 1995,
+        "club": "Al-Ettifaq FC (KSA)"
+      },
+      {
+        "num": 15,
+        "name": "Ryan Porteous",
+        "position": "DF",
+        "caps": "11/1",
+        "birth_year": 1999,
+        "club": "Watford F.C. (ENG)"
+      },
+      {
+        "num": 16,
+        "name": "Liam Cooper",
+        "position": "DF",
+        "caps": "19/0",
+        "birth_year": 1991,
+        "club": "Leeds United F.C. (ENG)"
+      },
+      {
+        "num": 22,
+        "name": "Ross McCrorie",
+        "position": "DF",
+        "caps": "1/0",
+        "birth_year": 1998,
+        "club": "Bristol City F.C. (ENG)"
+      },
+      {
+        "num": 24,
+        "name": "Greg Taylor",
+        "position": "DF",
+        "caps": "14/0",
+        "birth_year": 1997,
+        "club": "Celtic F.C. (SCO)"
+      },
+      {
+        "num": 26,
+        "name": "Scott McKenna",
+        "position": "DF",
+        "caps": "35/1",
+        "birth_year": 1996,
+        "club": "F.C. Copenhagen (DEN)"
+      },
+      {
+        "num": 4,
+        "name": "Scott McTominay",
+        "position": "MF",
+        "caps": "49/8",
+        "birth_year": 1996,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 7,
+        "name": "John McGinn",
+        "position": "MF",
+        "caps": "66/18",
+        "birth_year": 1994,
+        "club": "Aston Villa F.C. (ENG)"
+      },
+      {
+        "num": 8,
+        "name": "Callum McGregor",
+        "position": "MF",
+        "caps": "60/3",
+        "birth_year": 1993,
+        "club": "Celtic F.C. (SCO)"
+      },
+      {
+        "num": 14,
+        "name": "Billy Gilmour",
+        "position": "MF",
+        "caps": "27/1",
+        "birth_year": 2001,
+        "club": "Brighton & Hove Albion F.C. (ENG)"
+      },
+      {
+        "num": 17,
+        "name": "Stuart Armstrong",
+        "position": "MF",
+        "caps": "50/5",
+        "birth_year": 1992,
+        "club": "Southampton F.C. (ENG)"
+      },
+      {
+        "num": 18,
+        "name": "Lewis Morgan",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 1996,
+        "club": "New York Red Bulls (USA)"
+      },
+      {
+        "num": 20,
+        "name": "Ryan Jack",
+        "position": "MF",
+        "caps": "20/0",
+        "birth_year": 1992,
+        "club": "Rangers F.C. (SCO)"
+      },
+      {
+        "num": 23,
+        "name": "Kenny McLean",
+        "position": "MF",
+        "caps": "39/2",
+        "birth_year": 1992,
+        "club": "Norwich City F.C. (ENG)"
+      },
+      {
+        "num": 25,
+        "name": "James Forrest",
+        "position": "MF",
+        "caps": "39/5",
+        "birth_year": 1991,
+        "club": "Celtic F.C. (SCO)"
+      },
+      {
+        "num": 9,
+        "name": "Lawrence Shankland",
+        "position": "FW",
+        "caps": "11/3",
+        "birth_year": 1995,
+        "club": "Heart of Midlothian F.C. (SCO)"
+      },
+      {
+        "num": 10,
+        "name": "Ché Adams",
+        "position": "FW",
+        "caps": "30/6",
+        "birth_year": 1996,
+        "club": "Southampton F.C. (ENG)"
+      },
+      {
+        "num": 11,
+        "name": "Ryan Christie",
+        "position": "FW",
+        "caps": "49/6",
+        "birth_year": 1995,
+        "club": "AFC Bournemouth (ENG)"
+      },
+      {
+        "num": 19,
+        "name": "Tommy Conway",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 2002,
+        "club": "Bristol City F.C. (ENG)"
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "code": "SRB",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Predrag Rajković",
+        "position": "GK",
+        "caps": "32/0",
+        "birth_year": 1995,
+        "club": "RCD Mallorca (ESP)"
+      },
+      {
+        "num": 12,
+        "name": "Đorđe Petrović",
+        "position": "GK",
+        "caps": "3/0",
+        "birth_year": 1999,
+        "club": "Chelsea F.C. (ENG)"
+      },
+      {
+        "num": 23,
+        "name": "Vanja Milinković-Savić",
+        "position": "GK",
+        "caps": "19/0",
+        "birth_year": 1997,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 2,
+        "name": "Strahinja Pavlović",
+        "position": "DF",
+        "caps": "35/4",
+        "birth_year": 2001,
+        "club": "FC Red Bull Salzburg (AUT)"
+      },
+      {
+        "num": 3,
+        "name": "Nemanja Stojić",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 1998,
+        "club": "FK TSC (SRB)"
+      },
+      {
+        "num": 4,
+        "name": "Nikola Milenković",
+        "position": "DF",
+        "caps": "53/3",
+        "birth_year": 1997,
+        "club": "ACF Fiorentina (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Miloš Veljković",
+        "position": "DF",
+        "caps": "30/1",
+        "birth_year": 1995,
+        "club": "SV Werder Bremen (GER)"
+      },
+      {
+        "num": 15,
+        "name": "Srđan Babić",
+        "position": "DF",
+        "caps": "8/1",
+        "birth_year": 1996,
+        "club": "FC Spartak Moscow (RUS)"
+      },
+      {
+        "num": 24,
+        "name": "Uroš Spajić",
+        "position": "DF",
+        "caps": "21/0",
+        "birth_year": 1993,
+        "club": "Red Star Belgrade (SRB)"
+      },
+      {
+        "num": 25,
+        "name": "Filip Mladenović",
+        "position": "DF",
+        "caps": "31/1",
+        "birth_year": 1991,
+        "club": "Panathinaikos F.C. (GRE)"
+      },
+      {
+        "num": 5,
+        "name": "Nemanja Maksimović",
+        "position": "MF",
+        "caps": "49/0",
+        "birth_year": 1995,
+        "club": "Getafe CF (ESP)"
+      },
+      {
+        "num": 6,
+        "name": "Nemanja Gudelj",
+        "position": "MF",
+        "caps": "62/1",
+        "birth_year": 1991,
+        "club": "Sevilla FC (ESP)"
+      },
+      {
+        "num": 16,
+        "name": "Srđan Mijailović",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 1993,
+        "club": "Red Star Belgrade (SRB)"
+      },
+      {
+        "num": 17,
+        "name": "Ivan Ilić",
+        "position": "MF",
+        "caps": "16/0",
+        "birth_year": 2001,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 19,
+        "name": "Lazar Samardžić",
+        "position": "MF",
+        "caps": "9/0",
+        "birth_year": 2002,
+        "club": "Udinese Calcio (ITA)"
+      },
+      {
+        "num": 20,
+        "name": "Sergej Milinković-Savić",
+        "position": "MF",
+        "caps": "51/9",
+        "birth_year": 1995,
+        "club": "Al Hilal SFC (KSA)"
+      },
+      {
+        "num": 21,
+        "name": "Mijat Gaćinović",
+        "position": "MF",
+        "caps": "27/2",
+        "birth_year": 1995,
+        "club": "AEK Athens F.C. (GRE)"
+      },
+      {
+        "num": 22,
+        "name": "Saša Lukić",
+        "position": "MF",
+        "caps": "46/2",
+        "birth_year": 1996,
+        "club": "Fulham F.C. (ENG)"
+      },
+      {
+        "num": 26,
+        "name": "Veljko Birmančević",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 1998,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 7,
+        "name": "Dušan Vlahović",
+        "position": "FW",
+        "caps": "27/13",
+        "birth_year": 2000,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 8,
+        "name": "Luka Jović",
+        "position": "FW",
+        "caps": "35/10",
+        "birth_year": 1997,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 9,
+        "name": "Aleksandar Mitrović",
+        "position": "FW",
+        "caps": "91/58",
+        "birth_year": 1994,
+        "club": "Al Hilal SFC (KSA)"
+      },
+      {
+        "num": 10,
+        "name": "Dušan Tadić",
+        "position": "FW",
+        "caps": "108/23",
+        "birth_year": 1988,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 11,
+        "name": "Filip Kostić",
+        "position": "FW",
+        "caps": "63/3",
+        "birth_year": 1992,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Andrija Živković",
+        "position": "FW",
+        "caps": "46/1",
+        "birth_year": 1996,
+        "club": "PAOK FC (GRE)"
+      },
+      {
+        "num": 18,
+        "name": "Petar Ratkov",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 2003,
+        "club": "FC Red Bull Salzburg (AUT)"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "SVK",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Martin Dúbravka",
+        "position": "GK",
+        "caps": "43/0",
+        "birth_year": 1989,
+        "club": "Newcastle United F.C. (ENG)"
+      },
+      {
+        "num": 12,
+        "name": "Marek Rodák",
+        "position": "GK",
+        "caps": "22/0",
+        "birth_year": 1996,
+        "club": "Fulham F.C. (ENG)"
+      },
+      {
+        "num": 23,
+        "name": "Henrich Ravas",
+        "position": "GK",
+        "caps": "0/0",
+        "birth_year": 1997,
+        "club": "New England Revolution (USA)"
+      },
+      {
+        "num": 2,
+        "name": "Peter Pekarík",
+        "position": "DF",
+        "caps": "127/2",
+        "birth_year": 1986,
+        "club": "Hertha BSC (GER)"
+      },
+      {
+        "num": 3,
+        "name": "Denis Vavro",
+        "position": "DF",
+        "caps": "20/2",
+        "birth_year": 1996,
+        "club": "F.C. Copenhagen (DEN)"
+      },
+      {
+        "num": 4,
+        "name": "Adam Obert",
+        "position": "DF",
+        "caps": "5/0",
+        "birth_year": 2002,
+        "club": "Cagliari Calcio (ITA)"
+      },
+      {
+        "num": 6,
+        "name": "Norbert Gyömbér",
+        "position": "DF",
+        "caps": "39/0",
+        "birth_year": 1992,
+        "club": "US Salernitana 1919 (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Milan Škriniar",
+        "position": "DF",
+        "caps": "68/3",
+        "birth_year": 1995,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 15,
+        "name": "Vernon De Marco",
+        "position": "DF",
+        "caps": "10/1",
+        "birth_year": 1992,
+        "club": "Hatta Club (UAE)"
+      },
+      {
+        "num": 16,
+        "name": "Dávid Hancko",
+        "position": "DF",
+        "caps": "38/4",
+        "birth_year": 1997,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 25,
+        "name": "Sebastian Kóša",
+        "position": "DF",
+        "caps": "1/0",
+        "birth_year": 2003,
+        "club": "FC Spartak Trnava (SVK)"
+      },
+      {
+        "num": 5,
+        "name": "Tomáš Rigo",
+        "position": "MF",
+        "caps": "1/1",
+        "birth_year": 2002,
+        "club": "FC Baník Ostrava (CZE)"
+      },
+      {
+        "num": 8,
+        "name": "Ondrej Duda",
+        "position": "MF",
+        "caps": "72/13",
+        "birth_year": 1994,
+        "club": "Hellas Verona FC (ITA)"
+      },
+      {
+        "num": 11,
+        "name": "László Bénes",
+        "position": "MF",
+        "caps": "22/2",
+        "birth_year": 1997,
+        "club": "Hamburger SV (GER)"
+      },
+      {
+        "num": 13,
+        "name": "Patrik Hrošovský",
+        "position": "MF",
+        "caps": "55/0",
+        "birth_year": 1992,
+        "club": "K.R.C. Genk (BEL)"
+      },
+      {
+        "num": 19,
+        "name": "Juraj Kucka",
+        "position": "MF",
+        "caps": "107/14",
+        "birth_year": 1987,
+        "club": "ŠK Slovan Bratislava (SVK)"
+      },
+      {
+        "num": 21,
+        "name": "Matúš Bero",
+        "position": "MF",
+        "caps": "30/1",
+        "birth_year": 1995,
+        "club": "VfL Bochum (GER)"
+      },
+      {
+        "num": 22,
+        "name": "Stanislav Lobotka",
+        "position": "MF",
+        "caps": "55/4",
+        "birth_year": 1994,
+        "club": "SSC Napoli (ITA)"
+      },
+      {
+        "num": 7,
+        "name": "Tomáš Suslov",
+        "position": "FW",
+        "caps": "28/3",
+        "birth_year": 2002,
+        "club": "Hellas Verona FC (ITA)"
+      },
+      {
+        "num": 9,
+        "name": "Róbert Boženík",
+        "position": "FW",
+        "caps": "40/7",
+        "birth_year": 1999,
+        "club": "Boavista F.C. (POR)"
+      },
+      {
+        "num": 10,
+        "name": "Ľubomír Tupta",
+        "position": "FW",
+        "caps": "6/0",
+        "birth_year": 1998,
+        "club": "FC Slovan Liberec (CZE)"
+      },
+      {
+        "num": 17,
+        "name": "Lukáš Haraslín",
+        "position": "FW",
+        "caps": "36/6",
+        "birth_year": 1996,
+        "club": "AC Sparta Prague (CZE)"
+      },
+      {
+        "num": 18,
+        "name": "David Strelec",
+        "position": "FW",
+        "caps": "18/3",
+        "birth_year": 2001,
+        "club": "ŠK Slovan Bratislava (SVK)"
+      },
+      {
+        "num": 20,
+        "name": "Dávid Ďuriš",
+        "position": "FW",
+        "caps": "12/1",
+        "birth_year": 1999,
+        "club": "Ascoli Calcio 1898 FC (ITA)"
+      },
+      {
+        "num": 24,
+        "name": "Leo Sauer",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2005,
+        "club": "Feyenoord (NED)"
+      },
+      {
+        "num": 26,
+        "name": "Ivan Schranz",
+        "position": "FW",
+        "caps": "22/3",
+        "birth_year": 1993,
+        "club": "SK Slavia Prague (CZE)"
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "code": "SVN",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Jan Oblak",
+        "position": "GK",
+        "caps": "65/0",
+        "birth_year": 1993,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 12,
+        "name": "Vid Belec",
+        "position": "GK",
+        "caps": "21/0",
+        "birth_year": 1990,
+        "club": "APOEL FC (CYP)"
+      },
+      {
+        "num": 16,
+        "name": "Igor Vekić",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1998,
+        "club": "Vejle Boldklub (DEN)"
+      },
+      {
+        "num": 2,
+        "name": "Žan Karničnik",
+        "position": "DF",
+        "caps": "28/1",
+        "birth_year": 1994,
+        "club": "NK Celje (SVN)"
+      },
+      {
+        "num": 3,
+        "name": "Jure Balkovec",
+        "position": "DF",
+        "caps": "33/0",
+        "birth_year": 1994,
+        "club": "Alanyaspor (TUR)"
+      },
+      {
+        "num": 4,
+        "name": "Miha Blažič",
+        "position": "DF",
+        "caps": "32/0",
+        "birth_year": 1993,
+        "club": "Lech Poznań (POL)"
+      },
+      {
+        "num": 6,
+        "name": "Jaka Bijol",
+        "position": "DF",
+        "caps": "49/1",
+        "birth_year": 1999,
+        "club": "Udinese Calcio (ITA)"
+      },
+      {
+        "num": 13,
+        "name": "Erik Janža",
+        "position": "DF",
+        "caps": "10/2",
+        "birth_year": 1993,
+        "club": "Górnik Zabrze (POL)"
+      },
+      {
+        "num": 20,
+        "name": "Petar Stojanović",
+        "position": "DF",
+        "caps": "53/2",
+        "birth_year": 1995,
+        "club": "UC Sampdoria (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Vanja Drkušić",
+        "position": "DF",
+        "caps": "7/0",
+        "birth_year": 1999,
+        "club": "PFC Sochi (RUS)"
+      },
+      {
+        "num": 23,
+        "name": "David Brekalo",
+        "position": "DF",
+        "caps": "13/1",
+        "birth_year": 1998,
+        "club": "Orlando City SC (USA)"
+      },
+      {
+        "num": 5,
+        "name": "Jon Gorenc Stanković",
+        "position": "MF",
+        "caps": "24/1",
+        "birth_year": 1996,
+        "club": "SK Sturm Graz (AUT)"
+      },
+      {
+        "num": 7,
+        "name": "Benjamin Verbič",
+        "position": "MF",
+        "caps": "58/6",
+        "birth_year": 1993,
+        "club": "Panathinaikos F.C. (GRE)"
+      },
+      {
+        "num": 8,
+        "name": "Sandi Lovrić",
+        "position": "MF",
+        "caps": "35/4",
+        "birth_year": 1998,
+        "club": "Udinese Calcio (ITA)"
+      },
+      {
+        "num": 10,
+        "name": "Timi Max Elšnik",
+        "position": "MF",
+        "caps": "15/1",
+        "birth_year": 1998,
+        "club": "NK Olimpija Ljubljana (SVN)"
+      },
+      {
+        "num": 14,
+        "name": "Jasmin Kurtić",
+        "position": "MF",
+        "caps": "91/2",
+        "birth_year": 1989,
+        "club": "FC Südtirol (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Tomi Horvat",
+        "position": "MF",
+        "caps": "7/0",
+        "birth_year": 1999,
+        "club": "SK Sturm Graz (AUT)"
+      },
+      {
+        "num": 22,
+        "name": "Adam Gnezda Čerin",
+        "position": "MF",
+        "caps": "31/4",
+        "birth_year": 1999,
+        "club": "Panathinaikos F.C. (GRE)"
+      },
+      {
+        "num": 24,
+        "name": "Nino Žugelj",
+        "position": "MF",
+        "caps": "1/0",
+        "birth_year": 2000,
+        "club": "FK Bodø/Glimt (NOR)"
+      },
+      {
+        "num": 25,
+        "name": "Adrian Zeljković",
+        "position": "MF",
+        "caps": "1/0",
+        "birth_year": 2002,
+        "club": "FC Spartak Trnava (SVK)"
+      },
+      {
+        "num": 26,
+        "name": "Josip Iličić",
+        "position": "MF",
+        "caps": "81/17",
+        "birth_year": 1988,
+        "club": "NK Maribor (SVN)"
+      },
+      {
+        "num": 9,
+        "name": "Andraž Šporar",
+        "position": "FW",
+        "caps": "53/12",
+        "birth_year": 1994,
+        "club": "Panathinaikos F.C. (GRE)"
+      },
+      {
+        "num": 11,
+        "name": "Benjamin Šeško",
+        "position": "FW",
+        "caps": "29/11",
+        "birth_year": 2003,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 17,
+        "name": "Jan Mlakar",
+        "position": "FW",
+        "caps": "17/3",
+        "birth_year": 1998,
+        "club": "Pisa SC (ITA)"
+      },
+      {
+        "num": 18,
+        "name": "Žan Vipotnik",
+        "position": "FW",
+        "caps": "9/2",
+        "birth_year": 2002,
+        "club": "FC Girondins de Bordeaux (FRA)"
+      },
+      {
+        "num": 19,
+        "name": "Žan Celar",
+        "position": "FW",
+        "caps": "10/0",
+        "birth_year": 1999,
+        "club": "FC Lugano (SUI)"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "code": "ESP",
+    "squad": [
+      {
+        "num": 1,
+        "name": "David Raya",
+        "position": "GK",
+        "caps": "5/0",
+        "birth_year": 1995,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Álex Remiro",
+        "position": "GK",
+        "caps": "1/0",
+        "birth_year": 1995,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 23,
+        "name": "Unai Simón",
+        "position": "GK",
+        "caps": "40/0",
+        "birth_year": 1997,
+        "club": "Athletic Bilbao (ESP)"
+      },
+      {
+        "num": 2,
+        "name": "Dani Carvajal",
+        "position": "DF",
+        "caps": "44/0",
+        "birth_year": 1992,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 3,
+        "name": "Robin Le Normand",
+        "position": "DF",
+        "caps": "11/1",
+        "birth_year": 1996,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 4,
+        "name": "Nacho",
+        "position": "DF",
+        "caps": "25/1",
+        "birth_year": 1990,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 5,
+        "name": "Daniel Vivian",
+        "position": "DF",
+        "caps": "2/0",
+        "birth_year": 1999,
+        "club": "Athletic Bilbao (ESP)"
+      },
+      {
+        "num": 12,
+        "name": "Álex Grimaldo",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1995,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 14,
+        "name": "Aymeric Laporte",
+        "position": "DF",
+        "caps": "29/1",
+        "birth_year": 1994,
+        "club": "Al Nassr FC (KSA)"
+      },
+      {
+        "num": 22,
+        "name": "Jesús Navas",
+        "position": "DF",
+        "caps": "53/5",
+        "birth_year": 1985,
+        "club": "Sevilla FC (ESP)"
+      },
+      {
+        "num": 24,
+        "name": "Marc Cucurella",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1998,
+        "club": "Chelsea F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Mikel Merino",
+        "position": "MF",
+        "caps": "21/1",
+        "birth_year": 1996,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 8,
+        "name": "Fabián Ruiz",
+        "position": "MF",
+        "caps": "23/2",
+        "birth_year": 1996,
+        "club": "Paris Saint-Germain F.C. (FRA)"
+      },
+      {
+        "num": 10,
+        "name": "Dani Olmo",
+        "position": "MF",
+        "caps": "33/8",
+        "birth_year": 1998,
+        "club": "RB Leipzig (GER)"
+      },
+      {
+        "num": 15,
+        "name": "Álex Baena",
+        "position": "MF",
+        "caps": "3/1",
+        "birth_year": 2001,
+        "club": "Villarreal CF (ESP)"
+      },
+      {
+        "num": 16,
+        "name": "Rodri",
+        "position": "MF",
+        "caps": "50/3",
+        "birth_year": 1996,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 18,
+        "name": "Martín Zubimendi",
+        "position": "MF",
+        "caps": "6/0",
+        "birth_year": 1999,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 20,
+        "name": "Pedri",
+        "position": "MF",
+        "caps": "20/2",
+        "birth_year": 2002,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 25,
+        "name": "Fermín López",
+        "position": "MF",
+        "caps": "1/0",
+        "birth_year": 2003,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 7,
+        "name": "Álvaro Morata",
+        "position": "FW",
+        "caps": "73/35",
+        "birth_year": 1992,
+        "club": "Atlético Madrid (ESP)"
+      },
+      {
+        "num": 9,
+        "name": "Joselu",
+        "position": "FW",
+        "caps": "11/5",
+        "birth_year": 1990,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 11,
+        "name": "Ferran Torres",
+        "position": "FW",
+        "caps": "41/19",
+        "birth_year": 2000,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 17,
+        "name": "Nico Williams",
+        "position": "FW",
+        "caps": "14/2",
+        "birth_year": 2002,
+        "club": "Athletic Bilbao (ESP)"
+      },
+      {
+        "num": 19,
+        "name": "Lamine Yamal",
+        "position": "FW",
+        "caps": "7/2",
+        "birth_year": 2007,
+        "club": "FC Barcelona (ESP)"
+      },
+      {
+        "num": 21,
+        "name": "Mikel Oyarzabal",
+        "position": "FW",
+        "caps": "30/11",
+        "birth_year": 1997,
+        "club": "Real Sociedad (ESP)"
+      },
+      {
+        "num": 26,
+        "name": "Ayoze Pérez",
+        "position": "FW",
+        "caps": "1/1",
+        "birth_year": 1993,
+        "club": "Real Betis (ESP)"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "code": "SUI",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Yann Sommer",
+        "position": "GK",
+        "caps": "89/0",
+        "birth_year": 1988,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 12,
+        "name": "Yvon Mvogo",
+        "position": "GK",
+        "caps": "9/0",
+        "birth_year": 1994,
+        "club": "FC Lorient (FRA)"
+      },
+      {
+        "num": 21,
+        "name": "Gregor Kobel",
+        "position": "GK",
+        "caps": "5/0",
+        "birth_year": 1997,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 2,
+        "name": "Leonidas Stergiou",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 2002,
+        "club": "VfB Stuttgart (GER)"
+      },
+      {
+        "num": 3,
+        "name": "Silvan Widmer",
+        "position": "DF",
+        "caps": "43/4",
+        "birth_year": 1993,
+        "club": "1. FSV Mainz 05 (GER)"
+      },
+      {
+        "num": 4,
+        "name": "Nico Elvedi",
+        "position": "DF",
+        "caps": "53/2",
+        "birth_year": 1996,
+        "club": "Borussia Mönchengladbach (GER)"
+      },
+      {
+        "num": 5,
+        "name": "Manuel Akanji",
+        "position": "DF",
+        "caps": "60/3",
+        "birth_year": 1995,
+        "club": "Manchester City F.C. (ENG)"
+      },
+      {
+        "num": 13,
+        "name": "Ricardo Rodriguez",
+        "position": "DF",
+        "caps": "115/9",
+        "birth_year": 1992,
+        "club": "Torino FC (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Cédric Zesiger",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1998,
+        "club": "VfL Wolfsburg (GER)"
+      },
+      {
+        "num": 22,
+        "name": "Fabian Schär",
+        "position": "DF",
+        "caps": "81/8",
+        "birth_year": 1991,
+        "club": "Newcastle United F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Denis Zakaria",
+        "position": "MF",
+        "caps": "54/3",
+        "birth_year": 1996,
+        "club": "AS Monaco FC (MCO)"
+      },
+      {
+        "num": 8,
+        "name": "Remo Freuler",
+        "position": "MF",
+        "caps": "67/8",
+        "birth_year": 1992,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 10,
+        "name": "Granit Xhaka",
+        "position": "MF",
+        "caps": "125/14",
+        "birth_year": 1992,
+        "club": "Bayer 04 Leverkusen (GER)"
+      },
+      {
+        "num": 11,
+        "name": "Renato Steffen",
+        "position": "MF",
+        "caps": "39/4",
+        "birth_year": 1991,
+        "club": "FC Lugano (SUI)"
+      },
+      {
+        "num": 14,
+        "name": "Steven Zuber",
+        "position": "MF",
+        "caps": "54/11",
+        "birth_year": 1991,
+        "club": "AEK Athens F.C. (GRE)"
+      },
+      {
+        "num": 16,
+        "name": "Vincent Sierro",
+        "position": "MF",
+        "caps": "3/0",
+        "birth_year": 1995,
+        "club": "Toulouse FC (FRA)"
+      },
+      {
+        "num": 17,
+        "name": "Ruben Vargas",
+        "position": "MF",
+        "caps": "43/7",
+        "birth_year": 1998,
+        "club": "FC Augsburg (GER)"
+      },
+      {
+        "num": 20,
+        "name": "Michel Aebischer",
+        "position": "MF",
+        "caps": "20/0",
+        "birth_year": 1997,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 23,
+        "name": "Xherdan Shaqiri",
+        "position": "MF",
+        "caps": "123/31",
+        "birth_year": 1991,
+        "club": "Chicago Fire FC (USA)"
+      },
+      {
+        "num": 24,
+        "name": "Ardon Jashari",
+        "position": "MF",
+        "caps": "2/0",
+        "birth_year": 2002,
+        "club": "FC Luzern (SUI)"
+      },
+      {
+        "num": 26,
+        "name": "Fabian Rieder",
+        "position": "MF",
+        "caps": "5/0",
+        "birth_year": 2002,
+        "club": "Stade Rennais F.C. (FRA)"
+      },
+      {
+        "num": 7,
+        "name": "Breel Embolo",
+        "position": "FW",
+        "caps": "63/13",
+        "birth_year": 1997,
+        "club": "AS Monaco FC (MCO)"
+      },
+      {
+        "num": 9,
+        "name": "Noah Okafor",
+        "position": "FW",
+        "caps": "22/2",
+        "birth_year": 2000,
+        "club": "AC Milan (ITA)"
+      },
+      {
+        "num": 18,
+        "name": "Kwadwo Duah",
+        "position": "FW",
+        "caps": "1/0",
+        "birth_year": 1997,
+        "club": "PFC Ludogorets Razgrad (BUL)"
+      },
+      {
+        "num": 19,
+        "name": "Dan Ndoye",
+        "position": "FW",
+        "caps": "11/0",
+        "birth_year": 2000,
+        "club": "Bologna FC 1909 (ITA)"
+      },
+      {
+        "num": 25,
+        "name": "Zeki Amdouni",
+        "position": "FW",
+        "caps": "15/7",
+        "birth_year": 2000,
+        "club": "Burnley F.C. (ENG)"
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "code": "TUR",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Mert Günok",
+        "position": "GK",
+        "caps": "29/0",
+        "birth_year": 1989,
+        "club": "Beşiktaş J.K. (TUR)"
+      },
+      {
+        "num": 12,
+        "name": "Altay Bayındır",
+        "position": "GK",
+        "caps": "9/0",
+        "birth_year": 1998,
+        "club": "Manchester United F.C. (ENG)"
+      },
+      {
+        "num": 23,
+        "name": "Uğurcan Çakır",
+        "position": "GK",
+        "caps": "27/0",
+        "birth_year": 1996,
+        "club": "Trabzonspor (TUR)"
+      },
+      {
+        "num": 2,
+        "name": "Zeki Çelik",
+        "position": "DF",
+        "caps": "45/2",
+        "birth_year": 1997,
+        "club": "AS Roma (ITA)"
+      },
+      {
+        "num": 3,
+        "name": "Merih Demiral",
+        "position": "DF",
+        "caps": "44/2",
+        "birth_year": 1998,
+        "club": "Al-Ahli Saudi FC (KSA)"
+      },
+      {
+        "num": 4,
+        "name": "Samet Akaydin",
+        "position": "DF",
+        "caps": "6/0",
+        "birth_year": 1994,
+        "club": "Panathinaikos F.C. (GRE)"
+      },
+      {
+        "num": 13,
+        "name": "Ahmetcan Kaplan",
+        "position": "DF",
+        "caps": "0/0",
+        "birth_year": 2003,
+        "club": "AFC Ajax (NED)"
+      },
+      {
+        "num": 14,
+        "name": "Abdülkerim Bardakcı",
+        "position": "DF",
+        "caps": "8/1",
+        "birth_year": 1994,
+        "club": "Galatasaray S.K. (TUR)"
+      },
+      {
+        "num": 18,
+        "name": "Mert Müldür",
+        "position": "DF",
+        "caps": "24/1",
+        "birth_year": 1999,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 20,
+        "name": "Ferdi Kadıoğlu",
+        "position": "DF",
+        "caps": "15/1",
+        "birth_year": 1999,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 5,
+        "name": "Okay Yokuşlu",
+        "position": "MF",
+        "caps": "40/1",
+        "birth_year": 1994,
+        "club": "West Bromwich Albion F.C. (ENG)"
+      },
+      {
+        "num": 6,
+        "name": "Orkun Kökçü",
+        "position": "MF",
+        "caps": "28/2",
+        "birth_year": 2000,
+        "club": "S.L. Benfica (POR)"
+      },
+      {
+        "num": 8,
+        "name": "Arda Güler",
+        "position": "MF",
+        "caps": "7/1",
+        "birth_year": 2005,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 10,
+        "name": "Hakan Çalhanoğlu",
+        "position": "MF",
+        "caps": "86/18",
+        "birth_year": 1994,
+        "club": "Inter Milan (ITA)"
+      },
+      {
+        "num": 15,
+        "name": "Salih Özcan",
+        "position": "MF",
+        "caps": "18/0",
+        "birth_year": 1998,
+        "club": "Borussia Dortmund (GER)"
+      },
+      {
+        "num": 16,
+        "name": "İsmail Yüksek",
+        "position": "MF",
+        "caps": "14/1",
+        "birth_year": 1999,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 17,
+        "name": "İrfan Kahveci",
+        "position": "MF",
+        "caps": "32/2",
+        "birth_year": 1995,
+        "club": "Fenerbahçe S.K. (TUR)"
+      },
+      {
+        "num": 22,
+        "name": "Kaan Ayhan",
+        "position": "MF",
+        "caps": "58/5",
+        "birth_year": 1994,
+        "club": "Galatasaray S.K. (TUR)"
+      },
+      {
+        "num": 25,
+        "name": "Yunus Akgün",
+        "position": "MF",
+        "caps": "9/2",
+        "birth_year": 2000,
+        "club": "Leicester City F.C. (ENG)"
+      },
+      {
+        "num": 7,
+        "name": "Kerem Aktürkoğlu",
+        "position": "FW",
+        "caps": "29/5",
+        "birth_year": 1998,
+        "club": "Galatasaray S.K. (TUR)"
+      },
+      {
+        "num": 9,
+        "name": "Cenk Tosun",
+        "position": "FW",
+        "caps": "51/20",
+        "birth_year": 1991,
+        "club": "Beşiktaş J.K. (TUR)"
+      },
+      {
+        "num": 11,
+        "name": "Yusuf Yazıcı",
+        "position": "FW",
+        "caps": "43/3",
+        "birth_year": 1997,
+        "club": "Lille OSC (FRA)"
+      },
+      {
+        "num": 19,
+        "name": "Kenan Yıldız",
+        "position": "FW",
+        "caps": "7/1",
+        "birth_year": 2005,
+        "club": "Juventus FC (ITA)"
+      },
+      {
+        "num": 21,
+        "name": "Barış Alper Yılmaz",
+        "position": "FW",
+        "caps": "15/2",
+        "birth_year": 2000,
+        "club": "Galatasaray S.K. (TUR)"
+      },
+      {
+        "num": 24,
+        "name": "Semih Kılıçsoy",
+        "position": "FW",
+        "caps": "2/0",
+        "birth_year": 2005,
+        "club": "Beşiktaş J.K. (TUR)"
+      },
+      {
+        "num": 26,
+        "name": "Bertuğ Yıldırım",
+        "position": "FW",
+        "caps": "3/2",
+        "birth_year": 2002,
+        "club": "Stade Rennais F.C. (FRA)"
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "UKR",
+    "squad": [
+      {
+        "num": 1,
+        "name": "Heorhiy Bushchan",
+        "position": "GK",
+        "caps": "18/0",
+        "birth_year": 1994,
+        "club": "FC Dynamo Kyiv (UKR)"
+      },
+      {
+        "num": 12,
+        "name": "Anatoliy Trubin",
+        "position": "GK",
+        "caps": "11/0",
+        "birth_year": 2001,
+        "club": "S.L. Benfica (POR)"
+      },
+      {
+        "num": 23,
+        "name": "Andriy Lunin",
+        "position": "GK",
+        "caps": "12/0",
+        "birth_year": 1999,
+        "club": "Real Madrid CF (ESP)"
+      },
+      {
+        "num": 2,
+        "name": "Yukhym Konoplya",
+        "position": "DF",
+        "caps": "14/1",
+        "birth_year": 1999,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 3,
+        "name": "Oleksandr Svatok",
+        "position": "DF",
+        "caps": "6/0",
+        "birth_year": 1994,
+        "club": "SC Dnipro-1 (UKR)"
+      },
+      {
+        "num": 4,
+        "name": "Maksym Taloverov",
+        "position": "DF",
+        "caps": "3/0",
+        "birth_year": 2000,
+        "club": "LASK (AUT)"
+      },
+      {
+        "num": 13,
+        "name": "Illya Zabarnyi",
+        "position": "DF",
+        "caps": "36/1",
+        "birth_year": 2002,
+        "club": "AFC Bournemouth (ENG)"
+      },
+      {
+        "num": 16,
+        "name": "Vitaliy Mykolenko",
+        "position": "DF",
+        "caps": "41/1",
+        "birth_year": 1999,
+        "club": "Everton F.C. (ENG)"
+      },
+      {
+        "num": 17,
+        "name": "Oleksandr Zinchenko",
+        "position": "DF",
+        "caps": "63/9",
+        "birth_year": 1996,
+        "club": "Arsenal F.C. (ENG)"
+      },
+      {
+        "num": 21,
+        "name": "Valeriy Bondar",
+        "position": "DF",
+        "caps": "4/0",
+        "birth_year": 1999,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 22,
+        "name": "Mykola Matviyenko",
+        "position": "DF",
+        "caps": "65/0",
+        "birth_year": 1996,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 24,
+        "name": "Oleksandr Tymchyk",
+        "position": "DF",
+        "caps": "17/1",
+        "birth_year": 1997,
+        "club": "FC Dynamo Kyiv (UKR)"
+      },
+      {
+        "num": 26,
+        "name": "Bohdan Mykhaylichenko",
+        "position": "DF",
+        "caps": "8/0",
+        "birth_year": 1997,
+        "club": "FC Polissya Zhytomyr (UKR)"
+      },
+      {
+        "num": 5,
+        "name": "Serhiy Sydorchuk",
+        "position": "MF",
+        "caps": "61/3",
+        "birth_year": 1991,
+        "club": "K.V.C. Westerlo (BEL)"
+      },
+      {
+        "num": 6,
+        "name": "Taras Stepanenko",
+        "position": "MF",
+        "caps": "83/4",
+        "birth_year": 1989,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 7,
+        "name": "Andriy Yarmolenko",
+        "position": "MF",
+        "caps": "119/46",
+        "birth_year": 1989,
+        "club": "FC Dynamo Kyiv (UKR)"
+      },
+      {
+        "num": 8,
+        "name": "Ruslan Malinovskyi",
+        "position": "MF",
+        "caps": "61/7",
+        "birth_year": 1993,
+        "club": "Genoa CFC (ITA)"
+      },
+      {
+        "num": 14,
+        "name": "Heorhiy Sudakov",
+        "position": "MF",
+        "caps": "17/2",
+        "birth_year": 2002,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 15,
+        "name": "Viktor Tsyhankov",
+        "position": "MF",
+        "caps": "54/13",
+        "birth_year": 1997,
+        "club": "Girona FC (ESP)"
+      },
+      {
+        "num": 18,
+        "name": "Volodymyr Brazhko",
+        "position": "MF",
+        "caps": "4/0",
+        "birth_year": 2002,
+        "club": "FC Dynamo Kyiv (UKR)"
+      },
+      {
+        "num": 19,
+        "name": "Mykola Shaparenko",
+        "position": "MF",
+        "caps": "31/1",
+        "birth_year": 1998,
+        "club": "FC Dynamo Kyiv (UKR)"
+      },
+      {
+        "num": 20,
+        "name": "Oleksandr Zubkov",
+        "position": "MF",
+        "caps": "33/2",
+        "birth_year": 1996,
+        "club": "FC Shakhtar Donetsk (UKR)"
+      },
+      {
+        "num": 9,
+        "name": "Roman Yaremchuk",
+        "position": "FW",
+        "caps": "50/15",
+        "birth_year": 1995,
+        "club": "Valencia CF (ESP)"
+      },
+      {
+        "num": 10,
+        "name": "Mykhaylo Mudryk",
+        "position": "FW",
+        "caps": "21/2",
+        "birth_year": 2001,
+        "club": "Chelsea F.C. (ENG)"
+      },
+      {
+        "num": 11,
+        "name": "Artem Dovbyk",
+        "position": "FW",
+        "caps": "28/10",
+        "birth_year": 1997,
+        "club": "Girona FC (ESP)"
+      },
+      {
+        "num": 25,
+        "name": "Vladyslav Vanat",
+        "position": "FW",
+        "caps": "6/0",
+        "birth_year": 2002,
+        "club": "FC Dynamo Kyiv (UKR)"
+      }
+    ]
+  }  
+]

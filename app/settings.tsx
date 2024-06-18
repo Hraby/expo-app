@@ -1,13 +1,15 @@
 import { StatusBar } from 'expo-status-bar';
 
 import {Text, StyleSheet, View, Platform} from 'react-native';
+import { Stack} from 'expo-router';
 
 export default function SettingsScreen() {
   return (
     <View style={styles.container}>
+      <Stack.Screen options={{ presentation: "modal" }} />
       <Text style={styles.title}>Settings</Text>
       <View style={styles.separator}/>
-      <StatusBar style={Platform.OS === 'ios' ? 'light' : 'auto'} />
+      <StatusBar />
     </View>
   );
 }

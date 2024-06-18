@@ -1,9 +1,10 @@
 import {Text, StyleSheet, View, Platform} from 'react-native';
 
-export default function Matches() {
+
+export default function Favorite() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab Two</Text>
+      <Text style={styles.title}>comming soon...</Text>
       <View style={styles.separator}/>
     </View>
   );

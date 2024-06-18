@@ -1,12 +1,14 @@
 import {StyleSheet, View, SafeAreaView} from 'react-native';
 import {FeatureMatchScreen} from '@/components/FeatureMatch';
 import FavoriteMatches from '../../components/FavoriteMatches';
+import TodayMatches from '@/components/TodayMatches';
 
 export default function Home() {
   return (
-    <SafeAreaView style={styles.container}>
+    <SafeAreaView>
       <FeatureMatchScreen />
-      <FavoriteMatches />
+      {/* <FavoriteMatches /> */}
+      <TodayMatches/>
     </SafeAreaView>
   );
 }

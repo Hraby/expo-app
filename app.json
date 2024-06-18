@@ -31,7 +31,11 @@
     },
     "plugins": [
       "expo-router",
-      "expo-font"
+      ["expo-font",
+        {
+          "fonts": ["./assets/fonts/Manrope-VariableFont_wght.ttf"]
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true
